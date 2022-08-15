@@ -26,11 +26,11 @@
 
 ### Apps
 
-- F-Droid
-- Aurora Store
-- VLC Media Player
-- NewPipe
-- Orbot
+- [F-Droid](https://f-droid.org/)
+- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
+- [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
+- [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+- [Orbot](
 - Tor Browser
 - Mullvad VPN
 - Calyx VPN
@@ -41,3 +41,4 @@
 - Session
 - Netguard
 - Fritter
+- Scanner Radio - Police Scanner
