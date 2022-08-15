@@ -55,8 +55,10 @@ ISMI Spying:
 - https://proton.me/
  * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
 
-### Cryptocurrency Payment Methods
+### Anonymous Payment Methods
+- https://privacy.com/
 
+### Cryptocurrency Payment Methods
 Monero:
 - https://localmonero.co
   * No personal info sign up
