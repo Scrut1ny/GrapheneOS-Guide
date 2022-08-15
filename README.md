@@ -49,5 +49,5 @@ Aurora Store Apps:
 - Tor Browser
 
 ISMI Spying:
-- [Cell Spy](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
-- [SnoopSnitch](https://play.google.com/store/apps/details?id=de.srlabs.snoopsnitch&hl=en)
+- Cell Spy
+- SnoopSnitch
