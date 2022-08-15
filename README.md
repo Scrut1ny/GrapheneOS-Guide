@@ -26,11 +26,10 @@
 
 ### Apps
 
-
 - [F-Droid](https://f-droid.org/)
-- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 
 F-Droid Apps:
+- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
 - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
 - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
