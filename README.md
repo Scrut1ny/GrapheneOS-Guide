@@ -26,24 +26,28 @@
 
 ### Apps
 
+
 - [F-Droid](https://f-droid.org/)
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
+
+F-Droid Apps:
 - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
 - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-- [Orbot](
-- Tor Browser
-- Mullvad VPN
-- Calyx VPN
-- IVPN
+- [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
+- [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
+- [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
+- [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
+
+Aurora Store Apps:
 - Bromite
-- Briar
-- Signal
-- Session
-- Netguard
-- Fritter
+- IVPN
+- Mullvad VPN
+- Orbot
 - Scanner Radio - Police Scanner
+- Session
+- Signal
+- Tor Browser
 
-ISMI Spying
-
+ISMI Spying:
 - [Cell Spy](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 - [SnoopSnitch](https://play.google.com/store/apps/details?id=de.srlabs.snoopsnitch&hl=en)
