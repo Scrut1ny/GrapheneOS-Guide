@@ -53,7 +53,7 @@ ISMI Spying:
 
 ### Private Secure Email Service
 - https://proton.me/
- * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
+  * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
 
 ### Anonymous Payment Methods
 - https://privacy.com/
