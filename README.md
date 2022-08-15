@@ -50,3 +50,9 @@ Aurora Store Apps:
 ISMI Spying:
 - Cell Spy
 - SnoopSnitch
+
+### Cryptocurrency Payment Methods
+
+Monero:
+- https://localmonero.co
+  * No personal info sign up
