@@ -47,6 +47,10 @@ Aurora Store Apps:
 - Signal
 - Tor Browser
 
+Movie/Show Streaming + APK (Free no ads)
+- https://cloudstream.ws/
+  - https://github.com/rereleased/release/releases/download/v3.1.2/3.1.2.apk
+
 ISMI Spying:
 - Cell Spy
 - SnoopSnitch
