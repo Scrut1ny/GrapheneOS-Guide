@@ -54,6 +54,9 @@ Movie/Show Streaming + APK (Free no ads)
 ISMI Spying:
 - Cell Spy
 - SnoopSnitch
+- https://opencellid.org/
+- https://cellphonetrackers.org/
+- https://www.numberingplans.com/
 
 ### Email
 - https://proton.me/
