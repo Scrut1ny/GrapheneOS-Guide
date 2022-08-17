@@ -58,6 +58,8 @@ ISMI Spying:
 - https://cellphonetrackers.org/
 - https://www.numberingplans.com/
 
+- Great explaination > https://youtu.be/eivHO1OzF5E
+
 ### Email
 - https://proton.me/
   * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
