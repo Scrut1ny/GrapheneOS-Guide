@@ -61,6 +61,11 @@ ISMI Spying:
 
 - Great explaination > https://youtu.be/eivHO1OzF5E
 
+### Navigation
+- Organic Maps Offline Hike&Bike
+- OsmAnd Maps Travel & Navigate
+- Magic Earth Navigation & Maps
+
 ### Email
 - https://proton.me/
   * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
