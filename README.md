@@ -38,7 +38,8 @@ F-Droid Apps:
 - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
 
 Aurora Store Apps:
-- Bromite
+- magicearth
+- Mull
 - IVPN
 - Mullvad VPN
 - Orbot
@@ -63,6 +64,7 @@ ISMI Spying:
 ### Email
 - https://proton.me/
   * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
+- https://temp-mail.org/
 
 ### VPN
 - https://www.azirevpn.com/
