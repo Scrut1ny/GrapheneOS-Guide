@@ -61,6 +61,12 @@ ISMI Spying:
 
 - Great explaination > https://youtu.be/eivHO1OzF5E
 
+### Video & Camera Apps & EXIF
+- GoPro Quik: Video Editor
+- Panasonic Image App
+- [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
+
+
 ### Navigation
 - Organic Maps Offline Hike&Bike
 - OsmAnd Maps Travel & Navigate
