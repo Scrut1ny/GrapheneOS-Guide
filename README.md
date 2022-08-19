@@ -78,7 +78,6 @@ ISMI Spying:
 - https://temp-mail.org/
 
 ### VPN
-- https://www.azirevpn.com/
 - https://mullvad.net
   - o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion
 - https://www.ivpn.net/
