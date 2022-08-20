@@ -28,11 +28,15 @@
 
 - [F-Droid](https://f-droid.org/)
 
-F-Droid Apps:
+F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
 - App Store : [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 - Radio Streaming : [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
+- Podcasts : [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+- Youtube Music (parsed) : [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
 - Media Player : [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
 - YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+- Notes (ETEE) : [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
+- Text Editor : [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
 - Private Messenger : [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
 - VPN : [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
 - Police Your Apps : [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
