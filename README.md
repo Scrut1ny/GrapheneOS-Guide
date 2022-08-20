@@ -30,6 +30,7 @@
 
 F-Droid Apps:
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
+- [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
 - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
 - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
 - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
@@ -43,7 +44,6 @@ Aurora Store Apps:
 - IVPN
 - Mullvad VPN
 - Orbot
-- Scanner Radio - Police Scanner
 - Session
 - Signal
 - Tor Browser
@@ -58,7 +58,6 @@ ISMI Spying:
 - https://opencellid.org/
 - https://cellphonetrackers.org/
 - https://www.numberingplans.com/
-
 - Great explaination > https://youtu.be/eivHO1OzF5E
 
 ### Video & Camera Apps & EXIF
