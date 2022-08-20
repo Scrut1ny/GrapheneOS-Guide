@@ -29,14 +29,14 @@
 - [F-Droid](https://f-droid.org/)
 
 F-Droid Apps:
-- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
-- [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
-- [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
-- [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-- [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
-- [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
-- [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
-- [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
+- App Store : [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
+- Radio Streaming : [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
+- Media Player : [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
+- YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+- Private Messenger : [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
+- VPN : [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
+- Police Your Apps : [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
+- Twitter (parsed) : [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
 
 Aurora Store Apps:
 - magicearth
