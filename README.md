@@ -61,9 +61,6 @@ ISMI Spying:
 
 - Great explaination > https://youtu.be/eivHO1OzF5E
 
-### Radio - Police, EMS, Fire, etc
-- Scanner Radio
-
 ### Video & Camera Apps & EXIF
 - GoPro Quik: Video Editor
 - Panasonic Image App
