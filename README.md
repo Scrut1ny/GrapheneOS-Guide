@@ -66,7 +66,6 @@ ISMI Spying:
 - Panasonic Image App
 - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 
-
 ### Navigation
 - Organic Maps Offline Hike&Bike
 - OsmAnd Maps Travel & Navigate
@@ -89,6 +88,10 @@ ISMI Spying:
 Monero:
 - https://localmonero.co
   * No personal info sign up
+
+### Amazon Price Tracking Data
+- https://camelcamelcamel.com/
+- https://keepa.com/ (Requires login)
 
 Ethereum:
 - 
