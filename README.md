@@ -31,6 +31,7 @@
 F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
 - App Store : [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 - Web Browser : [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+- Email Client : [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
 - Navigation : [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
 - Navigation : [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
 - YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
