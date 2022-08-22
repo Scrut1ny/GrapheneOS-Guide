@@ -66,10 +66,15 @@ F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
 
 Aurora Store Apps:
 - magicearth
-- Orbot
+  - No direct download... );
 - Session
+  - [Direct Download APK - Session](https://github.com/oxen-io/session-android/releases/latest)
 - Signal
+  - [Direct Download APK - Signal](https://signal.org/android/apk/)
+- Orbot
+  - [Direct Download APK - Orbot](https://github.com/guardianproject/orbot/releases/latest)
 - Tor Browser
+  - [Direct Download APK - Tor Browser](https://www.torproject.org/download/#android)
 
 Movie/Show Streaming + APK (Free no ads)
 - https://cloudstream.ws/
