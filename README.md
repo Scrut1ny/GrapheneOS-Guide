@@ -29,7 +29,7 @@
 - [F-Droid](https://f-droid.org/)
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 
-F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
+F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
 - Web Browser
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - Email Client
