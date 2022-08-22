@@ -12,7 +12,7 @@
 - Enable `OEM Unlocking`
   - Settings > About phone > tap `Build number` 7 times (until you're developer)
   - Settings > System > Developer options > `OEM unlocking` ✅
-  - Developer options > USB debugging ✅
+  - Developer options > `USB debugging` ✅
 - 
 
 ### Settings
