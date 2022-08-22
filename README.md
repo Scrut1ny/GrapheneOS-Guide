@@ -53,17 +53,17 @@
 
 F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
 - Web Browser
-    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) 🌈
 - Email Client
     - [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
 - Navigation
-    - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
+    - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) 🌈
     - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
 - Onlne Video, Music, Streaming, Podcasts, etc
-    - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-    - [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
-    - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
-    - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+    - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌈
+    - [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/) 🌈
+    - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) 🌈
+    - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) 🌈
     - [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/)
 - Social Media
     - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
@@ -93,9 +93,9 @@ Aurora Store Apps:
 - Signal
   - [Direct Download APK - Signal](https://signal.org/android/apk/)
 - Orbot
-  - [Direct Download APK - Orbot](https://github.com/guardianproject/orbot/releases/latest)
+  - [Direct Download APK - Orbot](https://github.com/guardianproject/orbot/releases/latest) 🌈
 - Tor Browser
-  - [Direct Download APK - Tor Browser](https://www.torproject.org/download/#android)
+  - [Direct Download APK - Tor Browser](https://www.torproject.org/download/#android) 🌈
 
 Movie/Show Streaming + APK (Free no ads)
 - https://cloudstream.ws/
