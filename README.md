@@ -5,7 +5,7 @@
 - [grapheneos](https://grapheneos.org/)
 
 ### Web Install Guide
-- Buy Google a Google Pixel with `cash` (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
+- Buy a Google Pixel with `cash` (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
 - Turn on phone by holding down power + volume button.
 - Skip & disable ALL Google login / telemtry bullshit.
 - Enable `OEM Unlocking`
@@ -15,7 +15,7 @@
 
 ### CLI Install Guide
 
-- Buy Google a Google Pixel with cash (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
+- Buy a Google Pixel with cash (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
 - Turn on phone by holding down power + volume button.
 - Skip & disable ALL Google login / telemtry bullshit.
 - Enable `OEM Unlocking`
