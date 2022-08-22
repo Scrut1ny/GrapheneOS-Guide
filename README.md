@@ -65,7 +65,6 @@ F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
 
 Aurora Store Apps:
 - magicearth
-- IVPN
 - Orbot
 - Session
 - Signal
