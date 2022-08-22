@@ -7,7 +7,7 @@
 ### Settings
 
 - Settings > Network & internet > Internet > Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
-- Settings > Apps & notifications > SEE ALL x APPS > Customize everything! ✅
+- Settings > Apps & notifications > SEE ALL `X` APPS > Customize everything! ✅
 - Settings > Battery > Battery Percentage ✅
 - Settings > Display > Adaptive Brightness ✅
 - Settings > Display > Auto-rotate screen ✅
