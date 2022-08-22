@@ -31,7 +31,7 @@
 
 F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
 - Web Browser
-    - Web Browser : [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - Email Client
     - [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
 - Navigation
