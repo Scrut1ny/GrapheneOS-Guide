@@ -27,6 +27,7 @@
 ### Apps
 
 - [F-Droid](https://f-droid.org/)
+- [Neo Store](https://f-droid.org/en/packages/com.machiav3lli.fdroid/)
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 
 F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
