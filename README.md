@@ -51,6 +51,7 @@ F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
     - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
     - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
     - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
+    - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 - Messenger (Private, Secure, etc)
     - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
 - VPNs
@@ -91,7 +92,6 @@ ISMI Spying:
 ### Video & Camera Apps & EXIF
 - GoPro Quik: Video Editor
 - Panasonic Image App
-- [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 
 ### Navigation
 - Organic Maps Offline Hike&Bike
