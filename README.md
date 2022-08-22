@@ -27,27 +27,40 @@
 ### Apps
 
 - [F-Droid](https://f-droid.org/)
+- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 
 F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
-- App Store : [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
-- Web Browser : [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- Email Client : [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
-- Navigation : [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
-- Navigation : [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
-- YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-- Youtube Music (parsed) : [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
-- Radio Streaming : [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
-- Podcasts : [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-- Podcasts : [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/)
-- Twitter (parsed) : [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
-- Media Player : [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
-- Notes (ETEE) : [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
-- Text Editor : [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
-- Private Messenger : [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
-- VPN : [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/)
-- VPN : [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
-- Police Your Apps : [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
-- App Container Isolator : [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- Web Browser
+    - Web Browser : [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+- Email Client
+    - [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
+- Navigation
+    - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
+    - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
+- Onlne Video, Music, streaming, etc
+    - YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+    - Youtube Music (parsed) : [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
+    - Radio Streaming : [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
+    - Podcasts : [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+    - Podcasts : [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/)
+- Social Media
+    - Twitter (parsed) : [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
+- Offline Media
+    - Media Player : [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
+    - Notes (ETEE) : [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
+    - Text Editor : [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
+- Messenger (Private, Secure, etc)
+    - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
+- VPN's
+    - [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/)
+    - [IVPN](https://f-droid.org/en/packages/net.ivpn.client/)
+    - [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
+    - [ProtonVPN](https://f-droid.org/en/packages/ch.protonvpn.android/)
+    - [Riseup VPN](https://f-droid.org/en/packages/se.leap.riseupvpn/)
+- App Container/Isolator, sniffer, etc
+    - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
+    - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+    - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
 
 Aurora Store Apps:
 - magicearth
