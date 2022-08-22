@@ -95,7 +95,7 @@ ISMI Spying:
 
 ### Email
 - https://proton.me/
-  * protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
+  - protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
 - https://temp-mail.org/
 
 ### VPN
