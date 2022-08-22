@@ -51,7 +51,7 @@ F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
     - Text Editor : [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
 - Messenger (Private, Secure, etc)
     - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
-- VPN's
+- VPNs
     - [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/)
     - [IVPN](https://f-droid.org/en/packages/net.ivpn.client/)
     - [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
