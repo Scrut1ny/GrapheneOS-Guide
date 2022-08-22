@@ -38,15 +38,11 @@ F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
     - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
     - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
 - Onlne Video, Music, Streaming, Podcasts, etc
-    - Video
-            - YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-    - Music
-            - Youtube Music (parsed) : [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
-    - Radio
-            - Radio Streaming : [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
-    - Podcasts
-            - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-            - [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/)
+    - YouTube (parsed) : [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+    - Youtube Music (parsed) : [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
+    - Radio Streaming : [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
+    - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+    - [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/)
 - Social Media
     - Twitter (parsed) : [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
 - Offline Media
