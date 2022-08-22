@@ -41,6 +41,7 @@ F-Droid Apps - (NO Ads, Trackers, Sign Ups, NOTHING!) :
 - VPN : [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
 - Police Your Apps : [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
 - Twitter (parsed) : [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
+- Organic Maps : [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
 
 Aurora Store Apps:
 - magicearth
