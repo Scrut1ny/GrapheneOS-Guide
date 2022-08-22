@@ -4,6 +4,17 @@
 
 - [grapheneos](https://grapheneos.org/)
 
+Install Guide: From the begninning...
+
+- Buy Google Pixel (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
+- Turn on phone by holding down power + volume button.
+- Skip & disable ALL Google login / telemtry bullshit.
+- Enable `OEM Unlocking`
+  - Settings > About phone > tap `Build number` 7 times (until you're developer)
+  - Settings > System > Developer options > `OEM unlocking` ✅
+  - Developer options > USB debugging ✅
+- 
+
 ### Settings
 
 - Settings > Network & internet > Internet > Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
