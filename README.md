@@ -4,7 +4,7 @@
 
 - [grapheneos](https://grapheneos.org/)
 
-Install Guide: From the begninning...
+### Install Guide: From the begninning...
 
 - Buy Google Pixel (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
 - Turn on phone by holding down power + volume button.
