@@ -99,7 +99,7 @@ Aurora Store Apps:
 
 Movie/Show Streaming + APK (Free no ads)
 - https://cloudstream.ws/
-  - https://github.com/rereleased/release/releases/download/v3.1.2/3.1.2.apk
+  - [Direct Download APK](https://github.com/rereleased/release/releases/latest)
 
 ISMI Spying:
 - Cell Spy
