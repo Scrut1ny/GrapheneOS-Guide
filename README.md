@@ -84,6 +84,11 @@ F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
     - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
     - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
     - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
+- Spoofing Device Information (might be illegal in your area)
+    - Install tutorial > [Link](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
+    - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
+    - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
+    - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
 
 Aurora Store Apps:
 - magicearth
