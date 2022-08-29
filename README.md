@@ -27,20 +27,22 @@
 ### Settings
 
 - Settings > Network & internet > Internet > Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
+- Settings > Network & Internet > Advanced > Private DNS > Private DNS provider hostname ✅ `1dot1dot1dot1.cloudflare-dns.com`
 - Settings > Apps & notifications > SEE ALL `X` APPS > Customize everything! ✅
 - Settings > Battery > Battery Percentage ✅
 - Settings > Display > Adaptive Brightness ✅
 - Settings > Display > Auto-rotate screen ✅
-- Settings > Display > Dark Theme ✅
 - Settings > Display > Lock Screen > Notifications on Lock Screen > Don’t show notifications at all ✅
 - Settings > Display > Lock Screen > Show lockdown option ✅
 - Settings > Display > Lock Screen > Wake screen for notifications ❌
-- Settings > Display > Night Light ✅ Don’t use sunset to sunrise (uses device location data) use a specified custom time to time.
-- Settings > Network & Internet > Advanced > Private DNS > Private DNS provider hostname ✅ `1dot1dot1dot1.cloudflare-dns.com`
-- Settings > Privacy > permission manager > Customize Everything! ✅ use https://exodus-privacy.eu.org/
+- Settings > Display > Dark Theme ✅
+- Settings > Display > Night Light ✅
+  - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time.
 - Settings > Security > Auto reboot > 12 Hours ✅
 - Settings > Security > Enable native code debugging ❌
 - Settings > Security > PIN scrambling > Scramble PIN ✅
+- Settings > Privacy > Permission manager > Customize Everything! ✅
+  - Use [exodus-privacy](https://exodus-privacy.eu.org/).
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
 
 ### Apps
@@ -50,8 +52,9 @@
   - [Neo Store](https://f-droid.org/en/packages/com.machiav3lli.fdroid/) - (F-Droid front end)
   - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 
-F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
-  - Warning: F-Droid apps can be slow to get latest update.
+F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
+Warning: F-Droid apps can be slow to get latest update.
+
 - Web Browser
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) 🌈
 - Email Client
@@ -84,13 +87,19 @@ F-Droid Apps - (NO Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
     - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
     - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
     - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
+
+### Movie/Show Streaming + APK (Free no ads)
+- https://cloudstream.ws/
+  - [Direct Download APK](https://github.com/rereleased/release/releases/latest)
+
+### Spoofing
 - Spoofing Device Information (might be illegal in your area)
     - Install tutorial > [Link](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
     - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
     - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
     - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
 
-Aurora Store Apps:
+### Aurora Store Apps
 - magicearth
   - No direct download... );
 - Session
@@ -102,9 +111,10 @@ Aurora Store Apps:
 - Tor Browser
   - [Direct Download APK - Tor Browser](https://www.torproject.org/download/#android) 🌈
 
-Movie/Show Streaming + APK (Free no ads)
-- https://cloudstream.ws/
-  - [Direct Download APK](https://github.com/rereleased/release/releases/latest)
+
+
+
+
 
 ISMI Spying:
 - Cell Spy
@@ -144,6 +154,3 @@ Monero:
 ### Amazon Price Tracking Data
 - https://camelcamelcamel.com/
 - https://keepa.com/ (Requires login)
-
-Ethereum:
-- 
