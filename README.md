@@ -37,7 +37,6 @@
 - Settings > Display > Lock Screen > Wake screen for notifications ❌
 - Settings > Display > Night Light ✅ Don’t use sunset to sunrise (uses device location data) use a specified custom time to time.
 - Settings > Network & Internet > Advanced > Private DNS > Private DNS provider hostname ✅ `1dot1dot1dot1.cloudflare-dns.com`
-- Settings > Network & Internet > WIFI > Tap gear Icon > Advanced > Privacy > Use Randomized MAC ✅
 - Settings > Privacy > permission manager > Customize Everything! ✅ use https://exodus-privacy.eu.org/
 - Settings > Security > Auto reboot > 12 Hours ✅
 - Settings > Security > Enable native code debugging ❌
