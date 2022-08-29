@@ -52,8 +52,7 @@
   - [Neo Store](https://f-droid.org/en/packages/com.machiav3lli.fdroid/) - (F-Droid front end)
   - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
 
-F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) :
-Warning: F-Droid apps can be slow to get latest update.
+F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-Droid apps can be slow to get latest update.
 
 - Web Browser
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) 🌈
