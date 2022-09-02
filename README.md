@@ -93,7 +93,7 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
 
 ### Spoofing
 - Spoofing Device Information (might be illegal in your area)
-    - Install tutorial > [Link](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
+    - Install [tutoria](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
     - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
     - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
     - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
