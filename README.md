@@ -100,11 +100,11 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
 
 ### Aurora Store Apps
 - magicearth
-  - No direct download... );
+  - No direct download... ); 🌈
 - Session
-  - [Direct Download APK - Session](https://github.com/oxen-io/session-android/releases/latest)
+  - [Direct Download APK - Session](https://github.com/oxen-io/session-android/releases/latest) 🌈
 - Signal
-  - [Direct Download APK - Signal](https://signal.org/android/apk/)
+  - [Direct Download APK - Signal](https://signal.org/android/apk/) 🌈
 - Orbot
   - [Direct Download APK - Orbot](https://github.com/guardianproject/orbot/releases/latest) 🌈
 - Tor Browser
