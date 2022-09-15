@@ -74,6 +74,9 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
     - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
     - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
     - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
+- Random Useful Apps
+  - [AdAway](https://github.com/AdAway/AdAway/releases/latest)
+  - []()
 - Messenger (Private, Secure, etc)
     - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
 - VPNs
@@ -93,10 +96,13 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
 
 ### Spoofing
 - Spoofing Device Information (might be illegal in your area)
-    - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
-    - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
-    - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
-    - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
+  - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
+  - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
+  - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
+  - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
+- Best Spoofing Apps
+  - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases/latest)
+  - 
 
 ### Aurora Store Apps
 - magicearth
