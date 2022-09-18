@@ -24,6 +24,9 @@
   - Developer options > `USB debugging` ✅
 - 
 
+### If your system is bricked, boot looping, system is corrupted, showing critical errors, etc. use this.
+[Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
+
 ### Settings
 
 - Settings > Network & internet > Internet > Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
