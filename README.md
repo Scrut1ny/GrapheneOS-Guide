@@ -25,7 +25,7 @@
 - 
 
 ### If your system is bricked, boot looping, system is corrupted, showing critical errors, etc. use this.
-[Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
+- [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
 
 ### Settings
 
