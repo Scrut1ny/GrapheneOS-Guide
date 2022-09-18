@@ -91,8 +91,8 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
     - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
 
 ### Movie/Show Streaming + APK (Free no ads)
-- https://cloudstream.ws/
-  - [Direct Download APK](https://github.com/rereleased/release/releases/latest)
+- https://recloudstream.github.io/
+  - [Direct Download APK](https://github.com/recloudstream/cloudstream/releases/latest)
 
 ### Spoofing
 - Spoofing Device Information (might be illegal in your area)
