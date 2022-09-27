@@ -107,7 +107,7 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
   - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
 - Best Spoofing Apps
   - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases/latest)
-  - 
+  - [MACsposed](https://github.com/DavidBerdik/MACsposed/releases/latest)
 
 ### Aurora Store Apps
 - magicearth
