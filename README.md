@@ -126,13 +126,27 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
 
 
 
-ISMI Spying:
-- Cell Spy
-- SnoopSnitch
-- https://opencellid.org/
-- https://cellphonetrackers.org/
-- https://www.numberingplans.com/
-- Great explaination > https://youtu.be/eivHO1OzF5E
+GSM Sniffing:
+- Apps
+  - Cell Spy
+  - SnoopSnitch
+- Websites
+  - https://opencellid.org/
+  - http://www.cell2gps.com/
+  - https://cellphonetrackers.org/
+  - https://www.numberingplans.com/
+  - https://www.worldtimezone.com/gsm.html
+  - https://en.wikipedia.org/wiki/GSM_frequency_bands
+  - https://en.wikipedia.org/wiki/List_of_software-defined_radios
+  - https://en.wikipedia.org/wiki/International_mobile_subscriber_identity
+- Equipment
+  - RTL-SDR (65MHz-2300MHz) - [Link](https://www.amazon.com/dp/B06Y1HKLHY)
+  - Antenna - [Link](https://www.amazon.com/dp/B07HQJKMBD)
+- Software
+  - GsmEvil 2 - [Link](https://github.com/ninjhacks/gsmevil2)
+  - IMSI-catcher - [Link](https://github.com/Oros42/IMSI-catcher)
+- Explaination
+  - Great explaination > https://youtu.be/eivHO1OzF5E
 
 ### Video & Camera Apps & EXIF
 - GoPro Quik: Video Editor
