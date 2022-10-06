@@ -81,7 +81,7 @@ F-Droid Apps - (NO: Ads, Trackers, *Unneeded Sign Ups*, NOTHING!) - Warning: F-D
     - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 - Random Useful Apps
   - [AdAway](https://github.com/AdAway/AdAway/releases/latest)
-  - []()
+  - [ZLib](https://b-ok.cc/android)
 - Messenger (Private, Secure, etc)
     - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
 - VPNs
