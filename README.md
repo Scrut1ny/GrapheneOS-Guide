@@ -139,6 +139,7 @@ GSM Sniffing:
   - https://en.wikipedia.org/wiki/IMSI-catcher
   - https://en.wikipedia.org/wiki/GSM_frequency_bands
   - https://en.wikipedia.org/wiki/List_of_software-defined_radios
+  - https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity
   - https://en.wikipedia.org/wiki/International_mobile_subscriber_identity
 - Equipment
   - RTL-SDR (65MHz-2300MHz) - [Link](https://www.amazon.com/dp/B06Y1HKLHY)
