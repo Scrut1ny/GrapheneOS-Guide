@@ -91,13 +91,14 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Magic Earth
     - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
   - Session
-    - [Direct Download APK - Session](https://github.com/oxen-io/session-android/releases/latest)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=network.loki.messenger)
+    - [GitHub](https://github.com/oxen-io/session-android/releases)
   - Signal
-    - [Direct Download APK - Signal](https://signal.org/android/apk/)
+    - [Signal Website](https://signal.org/android/apk/)
   - Orbot
-    - [Direct Download APK - Orbot](https://github.com/guardianproject/orbot/releases/latest)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.android)
   - Tor Browser
-    - [Direct Download APK - Tor Browser](https://www.torproject.org/download/#android)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
 - External Apps
   - [CloudStream](https://cloudstream.cf/)
@@ -117,3 +118,10 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
 - After that make sure to do the GrapheneOS install again.
 - [GrapheneOS](https://grapheneos.org/install/)
+
+## Credits
+
+- https://www.devilreef.net/securing-a-personal-android-phone/
+- https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
+- https://github.com/ivoarch/GrapheneOS-Setup
+- https://craignuzzo.tech/grapheneos/
