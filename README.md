@@ -8,7 +8,7 @@
     - Wire it up to a [privacy.com](https://privacy.com/) card.
       - For $30/month, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, SSN, etc.)
 
-- 📲 Accessories (optional)
+- 📲 Mobile Accessories (optional)
   - Protective Case/Cover
   - Privacy Screen
   - Webcam Cover
