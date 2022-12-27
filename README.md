@@ -8,8 +8,11 @@
     - Wire it up to a [privacy.com](https://privacy.com/) card.
       - For $30/month, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, SSN, etc.)
 
-![image](https://user-images.githubusercontent.com/53458032/209721141-99fd6f4d-0123-4439-af3c-32cae14bf216.png)
-
+- 📲 Accessories (optional)
+  - Protective Case/Cover
+  - Privacy Screen
+  - Webcam Cover
+  
 ## ⬇️ Install Guide
 
 Official Site > [https://grapheneos.org](https://grapheneos.org)
