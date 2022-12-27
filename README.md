@@ -1,5 +1,3 @@
-## GrapheneOS Setup Tutorial
-
 GrapheneOS - [Link](https://grapheneos.org/)
 
 ## ⬇️ Install Guide
