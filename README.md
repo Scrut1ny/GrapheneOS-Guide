@@ -1,8 +1,10 @@
-GrapheneOS - [Link](https://grapheneos.org/)
+## 💵 Purchase Guide
+
+- Buy a Google Pixel with cash from a local store (*NOT FROM VERISON BECAUSE THEY LOCK THE OEM*)
 
 ## ⬇️ Install Guide
+
 - Web Install Guide
-  - Buy a Google Pixel with `cash` (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
   - Turn on phone by holding down power + volume button.
   - Skip & disable ALL Google login / telemtry bullshit.
   - Enable `OEM Unlocking`
@@ -11,7 +13,6 @@ GrapheneOS - [Link](https://grapheneos.org/)
     - Developer options > `USB debugging` ✅
 
 - CLI Install Guide
-  - Buy a Google Pixel with cash (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
   - Turn on phone by holding down power + volume button.
   - Skip & disable ALL Google login / telemtry bullshit.
   - Enable `OEM Unlocking`
