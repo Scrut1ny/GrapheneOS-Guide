@@ -2,25 +2,25 @@
 
 GrapheneOS - [Link](https://grapheneos.org/)
 
-### Web Install Guide
-- Buy a Google Pixel with `cash` (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
-- Turn on phone by holding down power + volume button.
-- Skip & disable ALL Google login / telemtry bullshit.
-- Enable `OEM Unlocking`
-  - Settings > About phone > tap `Build number` 7 times (until you're developer)
-  - Settings > System > Developer options > `OEM unlocking` ✅
-  - Developer options > `USB debugging` ✅
+## ⬇️ Install Guide
+- Web Install Guide
+  - Buy a Google Pixel with `cash` (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
+  - Turn on phone by holding down power + volume button.
+  - Skip & disable ALL Google login / telemtry bullshit.
+  - Enable `OEM Unlocking`
+    - Settings > About phone > tap `Build number` 7 times (until you're developer)
+    - Settings > System > Developer options > `OEM unlocking` ✅
+    - Developer options > `USB debugging` ✅
 
-### CLI Install Guide
-
-- Buy a Google Pixel with cash (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
-- Turn on phone by holding down power + volume button.
-- Skip & disable ALL Google login / telemtry bullshit.
-- Enable `OEM Unlocking`
-  - Settings > About phone > tap `Build number` 7 times (until you're developer)
-  - Settings > System > Developer options > `OEM unlocking` ✅
-  - Developer options > `USB debugging` ✅
-- 
+- CLI Install Guide
+  - Buy a Google Pixel with cash (NOT FROM VERISON BECAUSE THEY LOCK THE OEM)
+  - Turn on phone by holding down power + volume button.
+  - Skip & disable ALL Google login / telemtry bullshit.
+  - Enable `OEM Unlocking`
+    - Settings > About phone > tap `Build number` 7 times (until you're developer)
+    - Settings > System > Developer options > `OEM unlocking` ✅
+    - Developer options > `USB debugging` ✅
+  - 
 
 ## ⚙️ Settings
 
