@@ -103,6 +103,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - [CloudStream](https://cloudstream.cf/)
 
 ## Spoofing
+- DON'T ATTEMPT ON GRAPHENEOS, SYSTEM IS NOT MEANT TO BE ROOTED.
 - Spoofing Device Information (might be illegal in your area)
   - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
   - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
