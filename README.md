@@ -27,10 +27,11 @@ GrapheneOS - [Link](https://grapheneos.org/)
 - After that make sure to do the GrapheneOS install again.
 - [GrapheneOS](https://grapheneos.org/install/)
 
-### Settings
+## ⚙️ Settings
 
-- Settings > Network & internet > Internet > Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
-- Settings > Network & internet > Advanced > Private DNS > Private DNS provider hostname ✅ `1dot1dot1dot1.cloudflare-dns.com`
+- Settings > Network & internet > Internet > Select your WiFi ⚙️ > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
+- Settings > Network & internet > Private DNS > Private DNS provider hostname: `1dot1dot1dot1.cloudflare-dns.com` ✅
+- Settings > Network & internet > Internet > Carrier Settings ⚙️ > ⚙️ Allow 2G ❌
 - Settings > Apps & notifications > SEE ALL `X` APPS > Customize everything! ✅
 - Settings > Battery > Battery Percentage ✅
 - Settings > Display > Adaptive Brightness ✅
@@ -48,7 +49,7 @@ GrapheneOS - [Link](https://grapheneos.org/)
   - Use [exodus-privacy](https://exodus-privacy.eu.org/).
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
 
-### Apps
+## Apps
 
 - App Stores
   - [F-Droid](https://f-droid.org/)
