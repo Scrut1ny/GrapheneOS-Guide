@@ -1,6 +1,10 @@
 ## 💵 Purchase Guide
 
-- Buy a Google Pixel with cash from a local store (*NOT FROM VERISON BECAUSE THEY LOCK THE OEM*)
+- Mobile Phone
+  - Buy a Google Pixel with `cash` from a local store (*NOT FROM VERISON BECAUSE THEY LOCK THE OEM*)
+
+- Mobile Carrier
+  - Buy a pre-paid Mint Mobile (TMobile) SIM card with `cash`
 
 ## ⬇️ Install Guide
 
