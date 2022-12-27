@@ -31,7 +31,7 @@ GrapheneOS - [Link](https://grapheneos.org/)
 
 - Settings > Network & internet > Internet > Select your WiFi ⚙️ > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
 - Settings > Network & internet > Private DNS > Private DNS provider hostname: `1dot1dot1dot1.cloudflare-dns.com` ✅
-- Settings > Network & internet > Internet > Carrier Settings ⚙️ > ⚙️ Allow 2G ❌
+- Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
 - Settings > Apps & notifications > SEE ALL `X` APPS > Customize everything! ✅
 - Settings > Battery > Battery Percentage ✅
 - Settings > Display > Adaptive Brightness ✅
