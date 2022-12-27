@@ -4,9 +4,11 @@
   - Buy a new Google Pixel 6a< with `cash` from a local store. (*NOT FROM VERISON BECAUSE THEY LOCK THE OEM*)
 
 - 📶 Mobile Carrier
-  - Buy a pre-paid Mint Mobile (TMobile) SIM card with `cash` from a local store.
+  - Buy a pre-paid [Mint Mobile](https://www.mintmobile.com/) (TMobile) SIM card with `cash` from a local store.
     - Wire it up to a [privacy.com](https://privacy.com/) card.
       - For $30/month, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, SSN, etc.)
+
+![image](https://user-images.githubusercontent.com/53458032/209721141-99fd6f4d-0123-4439-af3c-32cae14bf216.png)
 
 ## ⬇️ Install Guide
 
