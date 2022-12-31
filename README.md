@@ -6,7 +6,7 @@
 - 📶 Mobile Carrier
   - Buy a pre-paid [Mint Mobile](https://www.mintmobile.com/) (T-Mobile) SIM card with `cash` from a local store.
     - Wire it up to a [privacy.com](https://privacy.com/) card.
-      - For $30/month, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, SSN, etc.)
+      - For $30/month, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, address, SSN, etc.)
   - [Calyx hotspot](https://calyxinstitute.org/membership/internet) for unlimited, unthrottled, anonymous connectivity. 
 
 - 📲 Mobile Accessories (optional)
