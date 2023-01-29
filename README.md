@@ -29,6 +29,10 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Setup Wi-Fi Connection
 - Settings > System > Dev > `Allow OEM unlocking` ✅
 
+## Installing Google USB Driver
+
+Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that open device manager and select your pixel device and install a custom update (select the folder you just downloaded).
+
 ## ⚙️ Settings
 
 - Settings > Network & internet > Internet > Select your WiFi ⚙️ > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
