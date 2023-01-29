@@ -22,6 +22,13 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 - CLI Install Guide > [Link](https://grapheneos.org/install/cli)
 
+## 🔓 Unlocking the OEM
+
+- Remove SIM
+- Factory reset
+- Setup Wi-Fi Connection
+- Settings > System > Dev > `Allow OEM unlocking` ✅
+
 ## ⚙️ Settings
 
 - Settings > Network & internet > Internet > Select your WiFi ⚙️ > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
