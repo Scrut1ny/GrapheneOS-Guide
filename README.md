@@ -136,3 +136,6 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
 - https://github.com/ivoarch/GrapheneOS-Setup
 - https://craignuzzo.tech/grapheneos/
+
+## Phone Layout
+![signal-2023-02-08-204304](https://user-images.githubusercontent.com/53458032/217694195-43b1c3bc-f72c-435b-86c6-110fe0110938.png)
