@@ -11,8 +11,12 @@
 
 - 📲 Mobile Accessories (optional)
   - Protective Case/Cover
-  - Privacy Screen
-  - Webcam Cover
+      - 
+  - Privacy Screen Protector
+      - [Google Pixel 4](https://www.amazon.com/dp/B09BC884ZH)
+      - [Google Pixel 6a](https://www.amazon.com/dp/B0B6ZHZLWT)
+      - [Google Pixel 7](https://www.amazon.com/dp/B0BKFSFWN4)
+      - [Google Pixel 7 Pro](https://www.amazon.com/dp/B0BKFK8HR7)
   
 ## ⬇️ Install Guide
 
@@ -64,8 +68,6 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - F-Droid Apps
   - Web Browser
       - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-  - Email Client
-      - [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
   - Navigation
       - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
       - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
@@ -81,10 +83,6 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
       - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
       - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
       - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
-      - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
-  - Random Useful Apps
-    - [AdAway](https://github.com/AdAway/AdAway/releases/latest)
-    - [ZLib](https://b-ok.cc/android)
   - Messenger (Private, Secure, etc)
       - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
   - VPNs
