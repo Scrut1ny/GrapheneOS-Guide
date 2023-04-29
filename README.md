@@ -1,7 +1,7 @@
 ## 💵 Purchase Guide
 
 - 📱 Mobile Phone
-  - Buy a new Google Pixel 6a* with `cash` from a local store. (*NOT FROM VERIZON BECAUSE THEY LOCK THE OEM!!!*)
+  - Purchase a new `Google Pixel 6a`> with `cash` from a local physical store and avoid Verizon, as they lock the OEM.
 
 - 📶 Mobile Carrier
   - Buy a pre-paid [Mint Mobile](https://www.mintmobile.com/) (T-Mobile) SIM card with `cash` from a local store.
