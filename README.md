@@ -11,12 +11,9 @@
 
 - 📲 Mobile Accessories (optional)
   - Protective Case/Cover
-      - 
+      - [Google Pixel](https://www.amazon.com/stores/page/1AEDD91F-AFDC-49AA-A7F4-2BF2A6AEBD57)
   - Privacy Screen Protector
-      - [Google Pixel 4](https://www.amazon.com/dp/B09BC884ZH)
-      - [Google Pixel 6a](https://www.amazon.com/dp/B0B6ZHZLWT)
-      - [Google Pixel 7](https://www.amazon.com/dp/B0BKFSFWN4)
-      - [Google Pixel 7 Pro](https://www.amazon.com/dp/B0BKFK8HR7)
+      - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2/search?terms=Google%20Pixel)
   
 ## ⬇️ Install Guide
 
