@@ -125,9 +125,8 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - External Apps
   - [CloudStream](https://cloudstream.cf/)
 
-## Spoofing
-- DON'T ATTEMPT ON GRAPHENEOS, SYSTEM IS NOT MEANT TO BE ROOTED.
-- Spoofing Device Information (might be illegal in your area)
+## Spoofing (DON'T ATTEMPT ON GRAPHENEOS, SYSTEM IS NOT MEANT TO BE ROOTED.)
+- Spoofing Device Information
   - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
   - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
   - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
