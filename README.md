@@ -62,17 +62,19 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
   - Web Browser
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
   - YouTube Alt
-    - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+    - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest)
   - Movie/Show Streaming Alt
     - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest)
   - Music
-    - [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
+    - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest)
   - Secure Messaging
     - [Signal](https://signal.org/android/apk/)
-  - Navigation (Magic Earth)
-    - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
   - Orbot
     - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.android)
+  - Navigation (Magic Earth)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
+  - Weather
+    - [Rain](https://github.com/DarkMooNight/Rain/releases/latest)
 
 - App Stores
   - [F-Droid](https://f-droid.org/)
