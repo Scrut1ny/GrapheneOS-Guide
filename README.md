@@ -16,14 +16,18 @@
 
 
 ## 🔓 Unlock the OEM
-- Remove SIM
-- Factory reset
-- Setup Wi-Fi Connection
-- Settings > System > Dev > `Allow OEM unlocking` ✅
+  1. Remove SIM
+  2. Factory reset
+  3. Setup Wi-Fi Connection
+  4. Settings > System > Dev > `Allow OEM unlocking` ✅
 
 
 ## ⬇️ Install Google USB Driver
-Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
+  1. Download: [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
+  2. Unzip "usb_driver_r13-windows.zip"
+  3. `WIN + R` enter: `devmgmt.msc`
+  4. Portable Devices > Google Pixel
+  5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
 
 
 ## ⬇️ Install Guide
