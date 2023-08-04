@@ -22,7 +22,7 @@
 - Settings > System > Dev > `Allow OEM unlocking` ✅
 
 
-## ⬇️ Installing Google USB Driver
+## ⬇️ Install Google USB Driver
 Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
 
 
