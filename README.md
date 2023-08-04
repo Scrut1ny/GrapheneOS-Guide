@@ -63,11 +63,17 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Settings > Display > Dark Theme ✅
 - Settings > Display > Night Light ✅
   - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time.
+
+#### Security
 - Settings > Security > Auto reboot > 12 Hours ✅
 - Settings > Security > Enable native code debugging ❌
 - Settings > Security > PIN scrambling > Scramble PIN ✅
+
+#### Privacy
 - Settings > Privacy > Permission manager > Customize Everything! ✅
   - Use [exodus-privacy](https://exodus-privacy.eu.org/).
+
+#### System
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
 
 
