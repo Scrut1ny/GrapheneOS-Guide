@@ -48,15 +48,15 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Settings > Apps > Default apps (*Set your favorite default apps here*) ✅
 
 #### Battery
-- Settings > Battery > Battery Percentage ✅
+- Settings > Battery > `Battery Percentage` ✅
 
 #### Sound & vibration
-- Settings > Sound & vibration > Vibration & haptics ❌
-- Settings > Sound & vibration > Dial pad tones ❌
-- Settings > Sound & vibration > Screen locking sound ❌
-- Settings > Sound & vibration > Charging sounds and vibration ❌
-- Settings > Sound & vibration > Touch sounds ❌
-- Settings > Sound & vibration > Always show icon when in vibrate mode ❌
+- Settings > Sound & vibration > `Vibration & haptics` ❌
+- Settings > Sound & vibration > `Dial pad tones` ❌
+- Settings > Sound & vibration > `Screen locking sound` ❌
+- Settings > Sound & vibration > `Charging sounds and vibration` ❌
+- Settings > Sound & vibration > `Touch sounds` ❌
+- Settings > Sound & vibration > `Always show icon when in vibrate mode` ❌
 
 #### Display
 - Settings > Display > Adaptive Brightness ✅
