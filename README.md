@@ -34,7 +34,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
 
-## ⚙️ Settings ============
+## ⚙️ Settings
 
 #### Network & internet
 - Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
@@ -73,7 +73,7 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
   - Use [exodus-privacy](https://exodus-privacy.eu.org/).
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
 
-## =========================
+##
 
 ## 🛍️ Apps
 
