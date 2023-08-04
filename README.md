@@ -36,16 +36,28 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 
 ## ⚙️ Settings
 
-### Network & internet
+#### Network & internet
 - Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
 - Settings > Network & internet > Internet > Select your WiFi ⚙️ > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
 - Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅
 - Settings > Network & internet > Internet connectivity checks ❌
 - Settings > Network & internet > Attestation key provisioning ✅
 
-### 
-- Settings > Apps & notifications > SEE ALL `X` APPS > Customize everything! ✅
+#### Apps
+- Settings > Apps > Default apps (Set your favorite default apps here) ✅
+
+#### Battery
 - Settings > Battery > Battery Percentage ✅
+
+### Sound & vibration
+- Settings > Sound & vibration > Vibration & haptics ❌
+- Settings > Sound & vibration > Dial pad tones ❌
+- Settings > Sound & vibration > Screen locking sound ❌
+- Settings > Sound & vibration > Charging sounds and vibration ❌
+- Settings > Sound & vibration > Touch sounds ❌
+- Settings > Sound & vibration > Always show icon when in vibrate mode ❌
+
+### Display
 - Settings > Display > Adaptive Brightness ✅
 - Settings > Display > Auto-rotate screen ✅
 - Settings > Display > Lock Screen > Notifications on Lock Screen > Don’t show notifications at all ✅
