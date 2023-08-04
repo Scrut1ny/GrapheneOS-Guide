@@ -34,7 +34,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
 
-## ⚙️ Settings
+## ⚙️ Settings ============
 
 #### Network & internet
 - Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
@@ -49,7 +49,7 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 #### Battery
 - Settings > Battery > Battery Percentage ✅
 
-### Sound & vibration
+#### Sound & vibration
 - Settings > Sound & vibration > Vibration & haptics ❌
 - Settings > Sound & vibration > Dial pad tones ❌
 - Settings > Sound & vibration > Screen locking sound ❌
@@ -57,7 +57,7 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - Settings > Sound & vibration > Touch sounds ❌
 - Settings > Sound & vibration > Always show icon when in vibrate mode ❌
 
-### Display
+#### Display
 - Settings > Display > Adaptive Brightness ✅
 - Settings > Display > Auto-rotate screen ✅
 - Settings > Display > Lock Screen > Notifications on Lock Screen > Don’t show notifications at all ✅
@@ -72,6 +72,8 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - Settings > Privacy > Permission manager > Customize Everything! ✅
   - Use [exodus-privacy](https://exodus-privacy.eu.org/).
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
+
+## =========================
 
 ## 🛍️ Apps
 
