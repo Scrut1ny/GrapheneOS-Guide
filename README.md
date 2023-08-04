@@ -36,9 +36,14 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 
 ## ⚙️ Settings
 
+### Network & internet
+- Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
 - Settings > Network & internet > Internet > Select your WiFi ⚙️ > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
 - Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅
-- Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
+- Settings > Network & internet > Internet connectivity checks ❌
+- Settings > Network & internet > Attestation key provisioning ✅
+
+### 
 - Settings > Apps & notifications > SEE ALL `X` APPS > Customize everything! ✅
 - Settings > Battery > Battery Percentage ✅
 - Settings > Display > Adaptive Brightness ✅
