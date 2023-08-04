@@ -1,5 +1,4 @@
 ## 💵 Purchase Guide
-
 - 📱 Mobile Phone
   - Purchase a new `Google Pixel 6a`> with `cash` from a local physical store and avoid Verizon, as they lock the OEM.
 
@@ -14,28 +13,28 @@
       - [Google Pixel](https://www.amazon.com/stores/page/1AEDD91F-AFDC-49AA-A7F4-2BF2A6AEBD57)
   - Privacy Screen Protector
       - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2/search?terms=Google%20Pixel)
-  
-## ⬇️ Install Guide
 
+
+## ⬇️ Install Guide
 Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 - Web Install Guide > [Link](https://grapheneos.org/install/web)
 
 - CLI Install Guide > [Link](https://grapheneos.org/install/cli)
 
-## 🔓 Unlocking the OEM
 
+## 🔓 Unlocking the OEM
 - Remove SIM
 - Factory reset
 - Setup Wi-Fi Connection
 - Settings > System > Dev > `Allow OEM unlocking` ✅
 
-## ⬇️ Installing Google USB Driver
 
+## ⬇️ Installing Google USB Driver
 Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
 
-## ⚙️ Settings
 
+## ⚙️ Settings
 #### Network & internet
 - Settings > Network & internet > Internet > Carrier Settings ⚙️ > Allow 2G ❌
 - Settings > Network & internet > Internet > *Select your WiFi* ⚙️ > *select pen icon* > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
@@ -72,11 +71,10 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - Settings > Privacy > Permission manager > Customize Everything! ✅
   - Use [exodus-privacy](https://exodus-privacy.eu.org/).
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
-
 ##
 
-## 🛍️ Apps
 
+## 🛍️ Apps
 - FOSS Essential Apps
   - Web Browser
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
