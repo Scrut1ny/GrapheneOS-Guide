@@ -15,21 +15,21 @@
       - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2/search?terms=Google%20Pixel)
 
 
-## 🔓 Unlocking the OEM
+## 🔓 Unlock the OEM
 - Remove SIM
 - Factory reset
 - Setup Wi-Fi Connection
 - Settings > System > Dev > `Allow OEM unlocking` ✅
 
 
+## ⬇️ Installing Google USB Driver
+Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
+
+
 ## ⬇️ Install Guide
 Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Web Install Guide > [Link](https://grapheneos.org/install/web)
   - CLI Install Guide > [Link](https://grapheneos.org/install/cli)
-
-
-## ⬇️ Installing Google USB Driver
-Install the Google USB Driver > [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip), after that hit `WIN + R` then enter `devmgmt.msc` and select your pixel device and install a custom update (select the unzipped file you just downloaded).
 
 
 ## ⚙️ Settings
