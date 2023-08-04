@@ -16,9 +16,9 @@
 
 
 ## 🔓 Unlock the OEM
-  1. Remove SIM
-  2. Factory reset
-  3. Setup Wi-Fi Connection
+  1. Remove physical SIM card
+  2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
+  3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
   4. Settings > System > Dev > `Allow OEM unlocking` ✅
 
 
