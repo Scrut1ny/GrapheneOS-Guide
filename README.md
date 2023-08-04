@@ -44,7 +44,7 @@ Install the Google USB Driver > [Link](https://dl.google.com/android/repository/
 - Settings > Network & internet > Attestation key provisioning ✅
 
 #### Apps
-- Settings > Apps > Default apps (Set your favorite default apps here) ✅
+- Settings > Apps > Default apps (*Set your favorite default apps here*) ✅
 
 #### Battery
 - Settings > Battery > Battery Percentage ✅
