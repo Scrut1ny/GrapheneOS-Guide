@@ -61,17 +61,16 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 #### Display
 - Settings > Display > `Adaptive Brightness` ✅
 - Settings > Display > `Auto-rotate screen` ✅
-- Settings > Display > Lock Screen > Notifications on Lock Screen > `Don’t show notifications at all` ✅
-- Settings > Display > Lock Screen > `Show lockdown option` ✅
+- Settings > Display > Lock Screen > Privacy > `Show sensitive content only when unlocked` ✅
 - Settings > Display > Lock Screen > `Wake screen for notifications` ❌
+- Settings > Display > Screen timeout > `1 minute` ✅
 - Settings > Display > `Dark Theme` ✅
-- Settings > Display > `Night Light` ✅
-  - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time.
+- Settings > Display > `Increase touch sensitivity` ✅ (If you have screen protector)
 
 #### Security
 - Settings > Security > Auto reboot > `12 Hours` ✅
-- Settings > Security > `Enable native code debugging` ❌
-- Settings > Security > `PIN scrambling > Scramble PIN` ✅
+- Settings > Security > `Native code debugging` ❌
+- Settings > Security > `Scramble PIN input layout` ✅
 
 #### Privacy
 - Settings > Privacy > Permission manager > Customize Everything! ✅
