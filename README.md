@@ -150,26 +150,23 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - External Apps
   - [CloudStream](https://cloudstream.cf/)
 
-## Spoofing (DON'T ATTEMPT ON GRAPHENEOS, SYSTEM IS NOT MEANT TO BE ROOTED.)
+### Spoofing (You *CANNOT* root GrapheneOS!)
 - Spoofing Device Information
   - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
   - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
   - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
   - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
-- Best Spoofing Apps
+- Spoofing Apps
   - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases/latest)
   - [MACsposed](https://github.com/DavidBerdik/MACsposed/releases/latest)
 
-## If your system is bricked, boot looping, system is corrupted, showing critical errors, etc. use this.
+### System is bricked, boot looping, corrupted, or showing critical errors
 - [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
-- After that make sure to do the GrapheneOS install again.
-- [GrapheneOS](https://grapheneos.org/install/)
+- After that make sure to do the [GrapheneOS](https://grapheneos.org/install/) install again.
 
-## Credits
-
+## Other Awesome Guides
 - https://www.devilreef.net/securing-a-personal-android-phone/
 - https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
-- https://github.com/ivoarch/GrapheneOS-Setup
 - https://craignuzzo.tech/grapheneos/
 
 ## Phone Layout
