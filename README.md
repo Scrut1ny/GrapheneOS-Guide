@@ -161,8 +161,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - [MACsposed](https://github.com/DavidBerdik/MACsposed/releases/latest)
 
 ### System is bricked, boot looping, corrupted, or showing critical errors
-- [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
-- After that make sure to do the [GrapheneOS](https://grapheneos.org/install/) install again.
+- Using this [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/) you should be able to fix your problem. After you have successfully fixed any prior issues, next just install [GrapheneOS](https://grapheneos.org/install/) again.
 
 ## Other Awesome Guides
 - https://www.devilreef.net/securing-a-personal-android-phone/
