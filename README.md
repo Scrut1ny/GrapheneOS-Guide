@@ -1,6 +1,6 @@
 ![image-1313240240](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/fd537eec-0144-47aa-9e72-4bd65eb3964c)
 
-## 💵 Purchase Guide
+## 💵 Purchasing
 - 📱 Mobile Phone
   - Purchase a new `Google Pixel` with `cash` from a local store and avoid Verizon, as they lock the OEM.
 
@@ -17,7 +17,7 @@
       - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2/search?terms=Google%20Pixel)
 
 
-## 🔓 Unlock the OEM
+## 🔓 Unlocking the OEM
   1. Remove physical SIM card
   2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
   3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
@@ -32,7 +32,7 @@
   5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
 
 
-## ⬇️ Install Guide
+## ⬇️ Installation
 Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Web Install Guide > [Link](https://grapheneos.org/install/web)
   - CLI Install Guide > [Link](https://grapheneos.org/install/cli)
