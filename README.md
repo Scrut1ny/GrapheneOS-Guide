@@ -1,3 +1,5 @@
+![image-1313240240](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/fd537eec-0144-47aa-9e72-4bd65eb3964c)
+
 ## 💵 Purchase Guide
 - 📱 Mobile Phone
   - Purchase a new `Google Pixel` with `cash` from a local store and avoid Verizon, as they lock the OEM.
