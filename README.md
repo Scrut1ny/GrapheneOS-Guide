@@ -163,4 +163,4 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - https://craignuzzo.tech/grapheneos/
 
 ## Phone Layout
-![signal-2023-02-08-204304](https://user-images.githubusercontent.com/53458032/217694195-43b1c3bc-f72c-435b-86c6-110fe0110938.png)
+![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
