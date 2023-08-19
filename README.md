@@ -92,12 +92,14 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest)
   - Music
     - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest)
+  - Photo/Video Gallery
+    - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases/latest)
+  - Notes
+    - [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes/releases/latest)
   - Secure Messaging
     - [Signal](https://signal.org/android/apk/)
-  - Orbot
-    - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.android)
-  - Navigation (Magic Earth)
-    - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
+  - Navigation
+    - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest)
   - Weather
     - [Rain](https://github.com/DarkMooNight/Rain/releases/latest)
 
@@ -139,18 +141,8 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Aurora Apps
   - Magic Earth
     - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
-  - Session
-    - [Google Play Store](https://play.google.com/store/apps/details?id=network.loki.messenger)
-    - [GitHub](https://github.com/oxen-io/session-android/releases)
-  - Signal
-    - [Signal Website](https://signal.org/android/apk/)
-  - Orbot
-    - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.android)
   - Tor Browser
     - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
-
-- External Apps
-  - [CloudStream](https://cloudstream.cf/)
 
 ### Spoofing (You *CANNOT* root GrapheneOS!)
 - Spoofing Device Information
