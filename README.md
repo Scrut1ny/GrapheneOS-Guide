@@ -123,6 +123,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
   - Offline Media
       - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
+      - [Video Transcoder](https://f-droid.org/en/packages/protect.videoeditor/)
       - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
       - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
   - Messenger (Private, Secure, etc)
@@ -137,6 +138,11 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
       - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
       - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
+  - Misc. Apps
+      - [dvd](https://f-droid.org/packages/org.yausername.dvd/)
+      - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/)
+      - [KeePassDX](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
+      - [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)
 
 - Aurora Apps
   - Magic Earth
