@@ -135,6 +135,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
   - Messenger (Private, Secure, etc)
       - [Brair](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
+      - [Jami](https://f-droid.org/packages/cx.ring/) - Audio & Video Calls / Chat Take Control of your Communication!
       - [Session F-Droid](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
   - VPNs
       - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
