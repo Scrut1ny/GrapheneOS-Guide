@@ -85,7 +85,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 ## 🛍️ Apps
 - FOSS Essential Apps
   - Web Browser
-    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
+    - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
       - Add-ons
         - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4141256/ublock_origin-1.51.0.xpi)
         - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4115771/tampermonkey-4.19.0.xpi)
@@ -111,43 +111,43 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 - App Stores
   - [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
-  - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
+  - [Aurora Store](https://f-droid.org/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
 
 - F-Droid Apps
   - Web Browser
-      - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
+      - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
   - Navigation
-      - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
-      - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+      - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
+      - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
   - Onlne Video, Music, Streaming, Podcasts, etc
-      - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
-      - [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
-      - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Transistor is an app for listening to radio stations over the internet.
-      - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
-      - [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
+      - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
+      - [ViMusic](https://f-droid.org/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
+      - [Transistor](https://f-droid.org/packages/org.y20k.transistor/) - Transistor is an app for listening to radio stations over the internet.
+      - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
+      - [Podverse](https://f-droid.org/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
   - Social Media
-      - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/) - A free, open-source Twitter client.
+      - [Fritter](https://f-droid.org/packages/com.jonjomckay.fritter/) - A free, open-source Twitter client.
   - Offline Media
-      - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
-      - [Video Transcoder](https://f-droid.org/en/packages/protect.videoeditor/) - Video transcoding between common formats
-      - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
-      - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/) - Simple Text Editor
+      - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
+      - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
+      - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
+      - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
   - Messenger (Private, Secure, etc)
-      - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
+      - [Brair](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
   - VPNs
-      - [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
-      - [IVPN](https://f-droid.org/en/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
-      - [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/) - Free VPN Service offered by The Calyx Institute
-      - [ProtonVPN](https://f-droid.org/en/packages/ch.protonvpn.android/) - Free Swiss VPN with advanced security and privacy features.
+      - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
+      - [IVPN](https://f-droid.org/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
+      - [Calyx VPN](https://f-droid.org/packages/org.calyxinstitute.vpn/) - Free VPN Service offered by The Calyx Institute
+      - [ProtonVPN](https://f-droid.org/packages/ch.protonvpn.android/) - Free Swiss VPN with advanced security and privacy features.
   - App Container/Isolator, sniffer, etc
-      - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/) - A simple way to block access to the internet per application
-      - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/) - Isolate your Big Brother apps
-      - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/) - No-root network monitor and traffic dump tool for Android devices
+      - [NetGuard](https://f-droid.org/packages/eu.faircode.netguard/) - A simple way to block access to the internet per application
+      - [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - Isolate your Big Brother apps
+      - [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture/) - No-root network monitor and traffic dump tool for Android devices
   - Misc. Apps
       - [dvd](https://f-droid.org/packages/org.yausername.dvd/) - 📀 Download videos from anywhere (YT-DLP)
       - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
-      - [KeePassDX](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
-      - [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/) - All in one emulator on Android
+      - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
+      - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
 
 - Aurora Apps
   - Magic Earth
