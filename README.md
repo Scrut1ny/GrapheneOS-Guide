@@ -139,10 +139,10 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
       - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
   - Misc. Apps
-      - [dvd](https://f-droid.org/packages/org.yausername.dvd/)
-      - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/)
-      - [KeePassDX](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
-      - [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)
+      - [dvd](https://f-droid.org/packages/org.yausername.dvd/) - 📀 Download videos from anywhere (YT-DLP)
+      - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
+      - [KeePassDX](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
+      - [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/) - All in one emulator on Android
 
 - Aurora Apps
   - Magic Earth
