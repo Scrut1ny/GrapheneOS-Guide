@@ -148,6 +148,8 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
       - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
       - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
+      - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
+      - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
 
 - Aurora Apps
   - Magic Earth
@@ -173,5 +175,12 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
 - https://craignuzzo.tech/grapheneos/
 
-## Phone Layout
+## Personal Current Phone Layout
 ![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
+- If you want to make your system look like this you have to use these apps:
+  - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
+  - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
+  - Arcticons
+    - [Arcticons Dark](https://f-droid.org/en/packages/com.donnnno.arcticons/) - A monotone line-based icon pack
+    - [Arcticons Light](https://f-droid.org/en/packages/com.donnnno.arcticons.light/) - A monotone line-based icon pack
+    - [Arcticons You](https://f-droid.org/en/packages/com.donnnno.arcticons.you/) - A Material You line-based icon pack
