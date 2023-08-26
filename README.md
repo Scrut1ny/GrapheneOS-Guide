@@ -89,7 +89,9 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - Add-ons
         - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4141256/ublock_origin-1.51.0.xpi)
         - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4115771/tampermonkey-4.19.0.xpi)
-          - [Greasy Fork](https://greasyfork.org/)
+          - User Scripts (JS)
+            - [Greasy Fork](https://greasyfork.org/)
+              - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)
   - YouTube Alt
     - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
   - Movie/Show Streaming Alt
