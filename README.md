@@ -85,59 +85,58 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 ## 🛍️ Apps
 - FOSS Essential Apps
   - Web Browser
-    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+    - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
   - YouTube Alt
-    - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest)
+    - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
   - Movie/Show Streaming Alt
-    - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest)
+    - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
   - Music
-    - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest)
+    - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest) - An Android application for streaming music from YouTube Music.
   - Photo/Video Gallery
-    - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases/latest)
+    - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
   - Notes
-    - [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes/releases/latest)
+    - [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes/releases/latest) -  A simple textfield for adding quick notes without ads.
   - Secure Messaging
-    - [Signal](https://signal.org/android/apk/)
+    - [Signal](https://signal.org/android/apk/) - Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.
   - Navigation
-    - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest)
+    - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
   - Weather
-    - [Rain](https://github.com/DarkMooNight/Rain/releases/latest)
+    - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
 
 - App Stores
-  - [F-Droid](https://f-droid.org/)
-  - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
+  - [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
+  - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
 
 - F-Droid Apps
   - Web Browser
-      - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+      - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
   - Navigation
-      - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/)
-      - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
+      - [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
+      - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
   - Onlne Video, Music, Streaming, Podcasts, etc
-      - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-      - [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/)
-      - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)
-      - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-      - [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/)
+      - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
+      - [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
+      - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Transistor is an app for listening to radio stations over the internet.
+      - [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
+      - [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
   - Social Media
-      - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
+      - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/) - A free, open-source Twitter client.
   - Offline Media
-      - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/)
-      - [Video Transcoder](https://f-droid.org/en/packages/protect.videoeditor/)
-      - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/)
-      - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/)
+      - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
+      - [Video Transcoder](https://f-droid.org/en/packages/protect.videoeditor/) - Video transcoding between common formats
+      - [Standard Notes](https://f-droid.org/en/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
+      - [SimpleTextEditor](https://f-droid.org/en/packages/com.maxistar.textpad/) - Simple Text Editor
   - Messenger (Private, Secure, etc)
-      - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/)
+      - [Brair](https://f-droid.org/en/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
   - VPNs
-      - [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/)
-      - [IVPN](https://f-droid.org/en/packages/net.ivpn.client/)
-      - [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/)
-      - [ProtonVPN](https://f-droid.org/en/packages/ch.protonvpn.android/)
-      - [Riseup VPN](https://f-droid.org/en/packages/se.leap.riseupvpn/)
+      - [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
+      - [IVPN](https://f-droid.org/en/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
+      - [Calyx VPN](https://f-droid.org/en/packages/org.calyxinstitute.vpn/) - Free VPN Service offered by The Calyx Institute
+      - [ProtonVPN](https://f-droid.org/en/packages/ch.protonvpn.android/) - Free Swiss VPN with advanced security and privacy features.
   - App Container/Isolator, sniffer, etc
-      - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
-      - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
-      - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)
+      - [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/) - A simple way to block access to the internet per application
+      - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/) - Isolate your Big Brother apps
+      - [PCAPdroid](https://f-droid.org/en/packages/com.emanuelef.remote_capture/) - No-root network monitor and traffic dump tool for Android devices
   - Misc. Apps
       - [dvd](https://f-droid.org/packages/org.yausername.dvd/) - 📀 Download videos from anywhere (YT-DLP)
       - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
