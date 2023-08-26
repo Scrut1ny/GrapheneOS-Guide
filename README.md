@@ -91,7 +91,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
         - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4115771/tampermonkey-4.19.0.xpi)
           - User Scripts (JS)
             - [Greasy Fork](https://greasyfork.org/)
-              - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)
+              - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
   - YouTube Alt
     - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
   - Movie/Show Streaming Alt
