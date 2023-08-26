@@ -86,6 +86,9 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - FOSS Essential Apps
   - Web Browser
     - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
+      - Add-ons
+        - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4141256/ublock_origin-1.51.0.xpi)
+        - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4115771/tampermonkey-4.19.0.xpi)
   - YouTube Alt
     - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
   - Movie/Show Streaming Alt
