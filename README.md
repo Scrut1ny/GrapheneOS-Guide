@@ -127,6 +127,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [Podverse](https://f-droid.org/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
   - Social Media
       - [Fritter](https://f-droid.org/packages/com.jonjomckay.fritter/) - A free, open-source Twitter client.
+      - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android/) - Decentralized social network
   - Offline Media
       - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
       - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
