@@ -177,7 +177,8 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 ## Personal Current Phone Layout
 ![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
-- If you want to make your system look like this you have to use these apps:
+
+- If you would like your system to look like mine, please check out these apps:
   - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
   - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
   - Arcticons
