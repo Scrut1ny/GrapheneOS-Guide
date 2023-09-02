@@ -3,12 +3,16 @@
 ## 💵 Purchasing
 - 📱 Mobile Phone
   - Purchase a new `Google Pixel` with `cash` from a local store and avoid Verizon, as they lock the OEM.
+    - *Ensure the transaction remains anonymous to avoid linking the phone's IMEI to your identity.*
 
 - 📶 Mobile Carrier
   - Buy a pre-paid [Mint Mobile](https://www.mintmobile.com/) (T-Mobile) SIM card with `cash` from a local store.
     - Wire it up to a [privacy.com](https://privacy.com/) card.
       - For $15/month, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, address, SSN, etc.)
   - [Calyx hotspot](https://calyxinstitute.org/membership/internet) for unlimited, unthrottled, anonymous connectivity. 
+
+- 📳 Configuring Mobile Carrier
+  - Use a free public Wi-Fi network far from your home to configure your recently acquired mobile carrier connection.
 
 - 📲 Mobile Accessories (optional)
   - Protective Case/Cover
