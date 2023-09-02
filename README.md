@@ -12,7 +12,7 @@
   - [Calyx hotspot](https://calyxinstitute.org/membership/internet) for unlimited, unthrottled, anonymous connectivity. 
 
 - 📳 Configuring Mobile Carrier
-  - Use a free public Wi-Fi network far from your home to configure your recently acquired mobile carrier plan.
+  - Use a free public Wi-Fi network far from your home to configure your recently acquired mobile carrier.
 
 - 📲 Mobile Accessories (optional)
   - Protective Case/Cover
