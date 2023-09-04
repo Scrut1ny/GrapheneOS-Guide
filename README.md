@@ -1,6 +1,6 @@
 ![image-1313240240](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/fd537eec-0144-47aa-9e72-4bd65eb3964c)
 
-# Please don't hesitate to suggest any additions or enhancements to this guide. Feel free to include links, configurations, apps, or any other ideas you may have. I will carefully review your recommendations and consider incorporating them.
+### *Please don't hesitate to suggest any additions or enhancements to this guide. Feel free to include links, configurations, apps, or any other ideas you may have. I will carefully review your recommendations and consider incorporating them.*
 
 ## 💵 Purchasing
 - 📱 Mobile Phone
