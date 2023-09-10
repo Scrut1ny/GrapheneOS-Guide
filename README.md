@@ -109,7 +109,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Notes
     - [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes/releases/latest) -  A simple textfield for adding quick notes without ads.
   - Secure Messaging
-    - [Signal](https://signal.org/android/apk/) - Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.
+    - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
     - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android. 
   - Navigation
     - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
