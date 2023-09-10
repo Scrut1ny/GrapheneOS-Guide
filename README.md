@@ -116,7 +116,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Weather
     - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
   - Updates
-    - [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source. 
+    - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Get Android App Updates Directly From the Source. 
 
 - App Stores
   - [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
