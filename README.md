@@ -136,8 +136,10 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
       - [Podverse](https://f-droid.org/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
   - Social Media
-      - [Fritter](https://f-droid.org/packages/com.jonjomckay.fritter/) - A free, open-source Twitter client.
+      - [Squawker](https://f-droid.org/en/packages/org.ca.squawker/) - An open-source anonymous Twitter/X client
+      - [Infinity for Reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - A beautiful, feature-rich Reddit client.
       - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android/) - Decentralized social network
+      - [Shitter](https://f-droid.org/en/packages/org.nuclearfog.twidda/) - A lightweight Mastodon client focused on privacy and low data consumption
   - Offline Media
       - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
       - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
