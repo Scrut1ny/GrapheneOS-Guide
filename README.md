@@ -102,6 +102,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
   - Movie/Show Streaming Alt
     - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
+      - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
   - Music
     - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest) - An Android application for streaming music from YouTube Music.
   - Photo/Video Gallery
