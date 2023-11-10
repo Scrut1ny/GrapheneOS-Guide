@@ -77,7 +77,6 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 #### Security
 - Settings > Security > Auto reboot > `12 Hours` ✅
-- Settings > Security > `Native code debugging` ❌
 - Settings > Security > `Scramble PIN input layout` ✅
 
 #### Privacy
