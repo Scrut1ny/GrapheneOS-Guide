@@ -99,6 +99,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
               - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
   - YouTube Alt
     - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
+    - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - Movie/Show Streaming Alt
     - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
       - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
@@ -116,6 +117,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
   - Weather
     - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
+    - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
   - Updates
     - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Get Android App Updates Directly From the Source. 
 
@@ -129,9 +131,14 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Navigation
       - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
       - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+  - Weather
+      - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
+      - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
   - Onlne Video, Music, Streaming, Podcasts, etc
       - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
+      - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
       - [ViMusic](https://f-droid.org/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
+      - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
       - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
       - [Transistor](https://f-droid.org/packages/org.y20k.transistor/) - Transistor is an app for listening to radio stations over the internet.
       - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
