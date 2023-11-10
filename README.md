@@ -128,6 +128,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - F-Droid Apps
   - Web Browser
       - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
+      - [cromite](https://github.com/uazo/cromite/releases/latest) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! 
   - Navigation
       - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
       - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
