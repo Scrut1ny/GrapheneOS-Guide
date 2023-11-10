@@ -104,6 +104,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
   - Music
     - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest) - An Android application for streaming music from YouTube Music.
+    - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
   - Photo/Video Gallery
     - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
   - Notes
