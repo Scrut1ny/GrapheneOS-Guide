@@ -98,13 +98,11 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
             - [Greasy Fork](https://greasyfork.org/)
               - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
   - YouTube Alt
-    - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - Lightweight YouTube frontend
     - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - Movie/Show Streaming Alt
     - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
       - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
   - Music
-    - [ViMusic](https://github.com/vfsfitvnm/ViMusic/releases/latest) - An Android application for streaming music from YouTube Music.
     - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
   - Photo/Video Gallery
     - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
@@ -117,7 +115,6 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
   - Weather
     - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
-    - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
   - Updates
     - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Get Android App Updates Directly From the Source. 
 
