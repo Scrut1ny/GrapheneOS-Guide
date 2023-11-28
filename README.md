@@ -171,6 +171,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
       - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
       - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
+      - [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - Catima, a Loyalty Card & Ticket Manager for Android
 
 - Aurora Apps
   - Magic Earth
