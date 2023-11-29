@@ -110,7 +110,12 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes/releases/latest) -  A simple textfield for adding quick notes without ads.
   - Secure Messaging
     - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
-    - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android. 
+    - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android.
+  - Email Service
+    - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
+    - [Skiff Mail](https://play.google.com/store/apps/details?id=com.skemailmobileapp)
+    - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
+      - [Github Link](https://github.com/tutao/tutanota/releases)
   - Navigation
     - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
   - Weather
@@ -121,6 +126,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - App Stores
   - [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
   - [Aurora Store](https://f-droid.org/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
+  - [accrescent](https://github.com/accrescent/accrescent/releases/latest) - A novel Android app store focused on security, privacy, and usability
 
 - F-Droid Apps
   - Web Browser
@@ -155,6 +161,11 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [Brair](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
       - [Jami](https://f-droid.org/packages/cx.ring/) - Audio & Video Calls / Chat Take Control of your Communication!
       - [Session F-Droid](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
+  - Email Service
+    - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
+    - [Skiff Mail](https://play.google.com/store/apps/details?id=com.skemailmobileapp)
+    - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
+      - [Github Link](https://github.com/tutao/tutanota/releases)
   - VPNs
       - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
       - [IVPN](https://f-droid.org/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
@@ -193,6 +204,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Using this [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/) you should be able to fix your problem. After you have successfully fixed any prior issues, next just install [GrapheneOS](https://grapheneos.org/install/) again.
 
 ## Other Awesome Guides
+- https://alternativeto.net/list/35462/grapheneos-appverse/
 - https://www.devilreef.net/securing-a-personal-android-phone/
 - https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
 - https://craignuzzo.tech/grapheneos/
