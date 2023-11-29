@@ -81,7 +81,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 #### Privacy
 - Settings > Privacy > Permission manager > Customize Everything! ✅
-  - Use [exodus-privacy](https://reports.exodus-privacy.eu.org/).
+  - Use [exodus-privacy](https://reports.exodus-privacy.eu.org/) to assess if an app has excessive trackers or questionable permissions.
 
 #### System
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > `Material Dark` ✅
