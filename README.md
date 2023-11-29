@@ -125,8 +125,8 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 - App Stores
   - [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
-  - [Aurora Store](https://f-droid.org/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
   - [accrescent](https://github.com/accrescent/accrescent/releases/latest) - A novel Android app store focused on security, privacy, and usability
+  - [Aurora Store](https://f-droid.org/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
 
 - F-Droid Apps
   - Web Browser
