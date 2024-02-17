@@ -105,9 +105,9 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - Music
     - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
   - Photo/Video Gallery
-    - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
+    - [Simple Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
   - Notes
-    - [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes/releases/latest) -  A simple textfield for adding quick notes without ads.
+    - [Simple Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
   - Secure Messaging
     - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
     - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android.
