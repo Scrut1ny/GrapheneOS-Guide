@@ -46,10 +46,11 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 ## ⚙️ Settings
 #### Network & internet
-- Settings > Network & internet > Internet > Carrier Settings ⚙️ > `Allow 2G` ❌
-- Settings > Network & internet > Internet > *Select your WiFi* ⚙️ > *select pen icon* > Advanced options > Privacy > `Use per-connection randomized MAC (default)` ✅
-- Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅
-- Settings > Network & internet > Internet connectivity checks > `Disabled` ❌
+* Settings > Network & internet > Internet > Carrier Settings ⚙️ > `Allow 2G` ❌
+* Settings > Network & internet > Internet > *Select your WiFi* ⚙️ > *select pen icon* > Advanced options > Privacy > `Use per-connection randomized MAC (default)` ✅
+* Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅
+* Settings > Network & internet > Internet connectivity checks > `Disabled` ❌
+  * **IMPORTANT:** Make sure to enable again for public wifi for the captive portals!
 
 #### Apps
 - Settings > Apps > Default apps (*Set your favorite default apps here*) ✅
