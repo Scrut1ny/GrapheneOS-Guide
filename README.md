@@ -113,7 +113,6 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android.
   - Email Service
     - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
-    - [Skiff Mail](https://play.google.com/store/apps/details?id=com.skemailmobileapp)
     - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
       - [Github Link](https://github.com/tutao/tutanota/releases)
   - Navigation
@@ -163,7 +162,6 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
       - [Session F-Droid](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
   - Email Service
     - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
-    - [Skiff Mail](https://play.google.com/store/apps/details?id=com.skemailmobileapp)
     - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
       - [Github Link](https://github.com/tutao/tutanota/releases)
   - VPNs
@@ -187,6 +185,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Aurora Apps
   - Magic Earth
     - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
+    - Direct Download: [https://www.magicearth.com/apk/](https://www.magicearth.com/apk/) - Password: `7h6Q7\9AsF:a7"Ja`
   - Tor Browser
     - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
