@@ -88,39 +88,39 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 
 ## 🛍️ Apps
-- FOSS Essential Apps
-  - Web Browser
-    - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
-      - Add-ons
-        - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4216633/ublock_origin-1.55.0.xpi)
-        - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4216231/tampermonkey-5.0.1.xpi)
-          - User Scripts (JS)
-            - [Greasy Fork](https://greasyfork.org/)
-              - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
-  - YouTube Alt
-    - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
-  - Movie/Show Streaming Alt
-    - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
-      - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
-  - Music
-    - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
-  - Photo/Video Gallery
-    - [Simple Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
-  - Notes
-    - [Simple Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
-  - Secure Messaging
-    - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
-    - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android.
-  - Email Service
-    - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
-    - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
-      - [Github Link](https://github.com/tutao/tutanota/releases)
-  - Navigation
-    - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
-  - Weather
-    - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
-  - Updates
-    - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Get Android App Updates Directly From the Source. 
+### FOSS Essential Apps
+- Web Browser
+  - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
+    - Add-ons
+      - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4216633/ublock_origin-1.55.0.xpi)
+      - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4216231/tampermonkey-5.0.1.xpi)
+        - User Scripts (JS)
+          - [Greasy Fork](https://greasyfork.org/)
+            - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
+- YouTube Alt
+  - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
+- Movie/Show Streaming Alt
+  - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
+    - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
+- Music
+  - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
+- Photo/Video Gallery
+  - [Simple Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
+- Notes
+  - [Simple Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
+- Secure Messaging
+  - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
+  - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android.
+- Email Service
+  - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
+  - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
+    - [Github Link](https://github.com/tutao/tutanota/releases)
+- Navigation
+  - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+- Weather
+  - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
+- Updates
+  - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Get Android App Updates Directly From the Source. 
 
 ### App Stores
 - [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
@@ -130,57 +130,57 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 ### F-Droid Apps
 - Web Browser
   - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
-    - [cromite](https://github.com/uazo/cromite/releases/latest) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! 
+  - [cromite](https://github.com/uazo/cromite/releases/latest) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! 
 - Navigation
   - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
-    - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+  - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
 - Weather
   - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
-    - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
+  - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
 - Onlne Video, Music, Streaming, Podcasts, etc
   - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
-    - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
-    - [ViMusic](https://f-droid.org/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
-    - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
-    - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-    - [Transistor](https://f-droid.org/packages/org.y20k.transistor/) - Transistor is an app for listening to radio stations over the internet.
-    - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
-    - [Podverse](https://f-droid.org/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
+  - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
+  - [ViMusic](https://f-droid.org/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
+  - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
+  - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+  - [Transistor](https://f-droid.org/packages/org.y20k.transistor/) - Transistor is an app for listening to radio stations over the internet.
+  - [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player
+  - [Podverse](https://f-droid.org/packages/com.podverse.fdroid/) - Podcast app with clips, video, livestreams, playlists, profiles, and cross-platform
 - Social Media
   - [Squawker](https://f-droid.org/en/packages/org.ca.squawker/) - An open-source anonymous Twitter/X client
-    - [Infinity for Reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - A beautiful, feature-rich Reddit client.
-    - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android/) - Decentralized social network
-    - [Shitter](https://f-droid.org/en/packages/org.nuclearfog.twidda/) - A lightweight Mastodon client focused on privacy and low data consumption
+  - [Infinity for Reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - A beautiful, feature-rich Reddit client.
+  - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android/) - Decentralized social network
+  - [Shitter](https://f-droid.org/en/packages/org.nuclearfog.twidda/) - A lightweight Mastodon client focused on privacy and low data consumption
 - Offline Media
   - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
-    - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
-    - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
-    - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
+  - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
+  - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
+  - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
 - Messenger (Private, Secure, etc)
   - [Brair](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
-    - [Jami](https://f-droid.org/packages/cx.ring/) - Audio & Video Calls / Chat Take Control of your Communication!
-    - [Session F-Droid](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
+  - [Jami](https://f-droid.org/packages/cx.ring/) - Audio & Video Calls / Chat Take Control of your Communication!
+  - [Session F-Droid](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
-    - [Github Link](https://github.com/tutao/tutanota/releases)
+  - [Github Link](https://github.com/tutao/tutanota/releases)
 - VPNs
   - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
-    - [IVPN](https://f-droid.org/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
-    - [Calyx VPN](https://f-droid.org/packages/org.calyxinstitute.vpn/) - Free VPN Service offered by The Calyx Institute
-    - [ProtonVPN](https://f-droid.org/packages/ch.protonvpn.android/) - Free Swiss VPN with advanced security and privacy features.
+  - [IVPN](https://f-droid.org/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
+  - [Calyx VPN](https://f-droid.org/packages/org.calyxinstitute.vpn/) - Free VPN Service offered by The Calyx Institute
+  - [ProtonVPN](https://f-droid.org/packages/ch.protonvpn.android/) - Free Swiss VPN with advanced security and privacy features.
 - App Control & Container/Isolator
   - [NetGuard](https://f-droid.org/packages/eu.faircode.netguard/) - A simple way to block access to the internet per application
   - [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - Isolate your Big Brother apps
 - Misc. Apps
   - [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture/) - No-root network monitor and traffic dump tool for Android devices
-    - [Seal](https://f-droid.org/en/packages/com.junkfood.seal/) - 🦭 Video/audio downloader for Android (YT-DLP), designed with Material You 
-    - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
-    - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
-    - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
-    - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
-    - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
-    - [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - Catima, a Loyalty Card & Ticket Manager for Android
+  - [Seal](https://f-droid.org/en/packages/com.junkfood.seal/) - 🦭 Video/audio downloader for Android (YT-DLP), designed with Material You 
+  - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
+  - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
+  - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
+  - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
+  - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
+  - [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - Catima, a Loyalty Card & Ticket Manager for Android
 
 ### Aurora Store Apps
 - Magic Earth
