@@ -214,7 +214,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 ![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
 
 - If you would like your system to look like mine, please check out these apps:
-  - [Lawnchair](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
+  - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair/releases) - Pixel Launcher features plus customizability
   - [Public IP](https://f-droid.org/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
   - Arcticons
     - [Arcticons Dark](https://f-droid.org/packages/com.donnnno.arcticons/) - A monotone line-based icon pack
