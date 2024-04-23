@@ -104,6 +104,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
   - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
     - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
 - Music
+  - [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for Android
   - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
 - Photo/Video Gallery
   - [Simple Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
