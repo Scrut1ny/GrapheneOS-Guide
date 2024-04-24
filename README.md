@@ -93,8 +93,8 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Web Browser
   - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
     - Add-ons
-      - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4261710/ublock_origin-1.57.2.xpi)
-      - [Tampermonkey](https://addons.mozilla.org/firefox/downloads/file/4250678/tampermonkey-5.1.0.xpi)
+      - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+      - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
         - User Scripts (JS)
           - [Greasy Fork](https://greasyfork.org/)
             - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
