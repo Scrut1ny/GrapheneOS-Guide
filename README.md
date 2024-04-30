@@ -100,7 +100,7 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
             - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
 - YouTube Alt
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
-  - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. 
+  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - A libre lightweight streaming front-end for Android. 
 - Movie/Show Streaming Alt
   - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
     - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
