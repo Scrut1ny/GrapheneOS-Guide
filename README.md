@@ -206,15 +206,16 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Using this [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/) you should be able to fix your problem. After you have successfully fixed any prior issues, next just install [GrapheneOS](https://grapheneos.org/install/) again.
 
 ## Other Awesome Guides
-- https://alternativeto.net/list/35462/grapheneos-appverse/
-- https://www.devilreef.net/securing-a-personal-android-phone/
-- https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
-- https://craignuzzo.tech/grapheneos/
+- [https://alternativeto.net/list/35462/grapheneos-appverse/](https://alternativeto.net/list/35462/grapheneos-appverse/)
+- [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
+- [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
+- [https://craignuzzo.tech/grapheneos/](https://craignuzzo.tech/grapheneos/)
 
 ## Personal Current Phone Layout
 ![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
 
 - If you would like your system to look like mine, please check out these apps:
+  - [KISS](https://github.com/Neamar/KISS/releases/latest) - Lightning fast, open-source, < 250kb Android launcher
   - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair/releases) - Pixel Launcher features plus customizability
   - [Public IP](https://f-droid.org/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
   - Arcticons
