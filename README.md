@@ -2,7 +2,14 @@
 
 #### I collaborated with Naomi Brockwell [NBTV](https://www.youtube.com/@NaomiBrockwellTV) to craft a YouTube video accompanying this guide. The process involved significant dedication and effort, resulting in the creation of [this video](https://youtu.be/wg00QkcpOOM). Whether you stumbled upon it from the YouTube video, discovered it by chance, or were referred by a friend, your feedback is highly valued. Please don't hesitate to propose any additions or improvements to this guide. Whether it's links, configurations, apps, or any other suggestions, I welcome your input. Your recommendations will be thoroughly reviewed, and I'll consider their integration into this guide.
 
+
+
+
 ## 💵 Purchasing
+
+<details>
+<summary>Click to expand...</summary>
+
 - 📱 Mobile Phone
   - Purchase a new `Google Pixel` with `cash` from a local store and avoid Verizon, as they lock the OEM.
     - *Ensure the transaction remains anonymous to avoid linking the phone's IMEI to your identity.*
@@ -22,29 +29,61 @@
   - Privacy Screen Protector
       - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2/search?terms=Google%20Pixel)
 
+</details>
+
+
+
 
 ## 🔓 Unlocking the OEM
-  1. Remove physical SIM card
-  2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
-  3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
-  4. Settings > System > Dev > `Allow OEM unlocking` ✅
+
+<details>
+<summary>Click to expand...</summary>
+
+- 1. Remove physical SIM card
+- 2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
+- 3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
+- 4. Settings > System > Dev > `Allow OEM unlocking` ✅
+
+</details>
+
+
 
 
 ## ⬇️ Install Google USB Driver
-  1. Download: [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
-  2. Unzip "usb_driver_r13-windows.zip"
-  3. `WIN + R` enter: `devmgmt.msc`
-  4. Portable Devices > Google Pixel
-  5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
+
+<details>
+<summary>Click to expand...</summary>
+
+- 1. Download: [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
+- 2. Unzip "usb_driver_r13-windows.zip"
+- 3. `WIN + R` enter: `devmgmt.msc`
+- 4. Portable Devices > Google Pixel
+- 5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
+
+</details>
+
+
 
 
 ## ⬇️ Installation
+
+<details>
+<summary>Click to expand...</summary>
+
 Official Site > [https://grapheneos.org](https://grapheneos.org)
-  - Web Install Guide > [Link](https://grapheneos.org/install/web)
-  - CLI Install Guide > [Link](https://grapheneos.org/install/cli)
+- Web Install Guide > [Link](https://grapheneos.org/install/web)
+- CLI Install Guide > [Link](https://grapheneos.org/install/cli)
+
+</details>
+
+
 
 
 ## ⚙️ Settings
+
+<details>
+<summary>Click to expand...</summary>
+
 #### Network & internet
 * Settings > Network & internet > Internet > Carrier Settings ⚙️ > Preferred network type > `LTE only` ✅ (*if you don't have 5G*)
 * Settings > Network & internet > Internet > Carrier Settings ⚙️ > `Allow 2G` ❌ (*if option exists*)
@@ -87,8 +126,16 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 #### System
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > `Material Dark` ✅
 
+</details>
+
+
+
 
 ## 🛍️ Apps
+
+<details>
+<summary>Click to expand...</summary>
+
 ### FOSS Essential Apps
 - Web Browser
   - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
@@ -192,15 +239,10 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 - Tor Browser
   - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
-## Rooting GrapheneOS (Don't try!)
-- Spoofing Device Information
-  - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
-  - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
-  - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
-  - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
-- Spoofing Apps
-  - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases/latest)
-  - [MACsposed](https://github.com/DavidBerdik/MACsposed/releases/latest)
+</details>
+
+
+
 
 ## System is bricked, boot looping, corrupted, or showing critical errors
 - Using this [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/) you should be able to fix your problem. After you have successfully fixed any prior issues, next just install [GrapheneOS](https://grapheneos.org/install/) again.
@@ -222,3 +264,13 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [Arcticons Dark](https://f-droid.org/packages/com.donnnno.arcticons/) - A monotone line-based icon pack
     - [Arcticons Light](https://f-droid.org/packages/com.donnnno.arcticons.light/) - A monotone line-based icon pack
     - [Arcticons You](https://f-droid.org/packages/com.donnnno.arcticons.you/) - A Material You line-based icon pack
+
+## Rooting GrapheneOS (Don't try!)
+- Spoofing Device Information
+  - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
+  - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
+  - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
+  - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
+- Spoofing Apps
+  - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases/latest)
+  - [MACsposed](https://github.com/DavidBerdik/MACsposed/releases/latest)
