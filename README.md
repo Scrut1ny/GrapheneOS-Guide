@@ -71,7 +71,6 @@
 <summary>Click to expand...</summary>
 
 ### Official Site > [https://grapheneos.org](https://grapheneos.org)
-- [GOS Install](https://grapheneos.org/install/)
 - [Web Install Guide](https://grapheneos.org/install/web)
 - [CLI Install Guide](https://grapheneos.org/install/cli)
 
