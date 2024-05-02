@@ -39,10 +39,10 @@
 <details>
 <summary>Click to expand...</summary>
 
-- 1. Remove physical SIM card
-- 2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
-- 3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
-- 4. Settings > System > Dev > `Allow OEM unlocking` ✅
+1. Remove physical SIM card
+2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
+3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
+4. Settings > System > Dev > `Allow OEM unlocking` ✅
 
 </details>
 
@@ -54,11 +54,11 @@
 <details>
 <summary>Click to expand...</summary>
 
-- 1. Download: [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
-- 2. Unzip "usb_driver_r13-windows.zip"
-- 3. `WIN + R` enter: `devmgmt.msc`
-- 4. Portable Devices > Google Pixel
-- 5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
+1. Download: [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
+2. Unzip "usb_driver_r13-windows.zip"
+3. `WIN + R` enter: `devmgmt.msc`
+4. Portable Devices > Google Pixel
+5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
 
 </details>
 
@@ -70,9 +70,13 @@
 <details>
 <summary>Click to expand...</summary>
 
-Official Site > [https://grapheneos.org](https://grapheneos.org)
-- Web Install Guide > [Link](https://grapheneos.org/install/web)
-- CLI Install Guide > [Link](https://grapheneos.org/install/cli)
+### Official Site > [https://grapheneos.org](https://grapheneos.org)
+- [GOS Install](https://grapheneos.org/install/)
+- [Web Install Guide](https://grapheneos.org/install/web)
+- [CLI Install Guide](https://grapheneos.org/install/cli)
+
+### System is bricked, boot looping, corrupted, or showing critical errors
+- [Fix Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
 
 </details>
 
@@ -244,14 +248,10 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
 
 
 
-## System is bricked, boot looping, corrupted, or showing critical errors
-- Using this [Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/) you should be able to fix your problem. After you have successfully fixed any prior issues, next just install [GrapheneOS](https://grapheneos.org/install/) again.
+## Personal Layout Design
 
-## Other Awesome Guides
-- [https://alternativeto.net/list/35462/grapheneos-appverse/](https://alternativeto.net/list/35462/grapheneos-appverse/)
-- [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
-- [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
-- [https://craignuzzo.tech/grapheneos/](https://craignuzzo.tech/grapheneos/)
+<details>
+<summary>Click to expand...</summary>
 
 ## Personal Current Phone Layout
 ![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
@@ -265,12 +265,13 @@ Official Site > [https://grapheneos.org](https://grapheneos.org)
     - [Arcticons Light](https://f-droid.org/packages/com.donnnno.arcticons.light/) - A monotone line-based icon pack
     - [Arcticons You](https://f-droid.org/packages/com.donnnno.arcticons.you/) - A Material You line-based icon pack
 
-## Rooting GrapheneOS (Don't try!)
-- Spoofing Device Information
-  - Install [tutorial](https://www.youtube.com/watch?v=4ZS5QiWB8WI)
-  - [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
-  - [Riru](https://github.com/RikkaApps/Riru/releases/latest)
-  - [EdXposed](https://github.com/ElderDrivers/EdXposed/releases/latest)
-- Spoofing Apps
-  - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases/latest)
-  - [MACsposed](https://github.com/DavidBerdik/MACsposed/releases/latest)
+</details>
+
+
+
+
+## Other Awesome Guides
+- [https://alternativeto.net/list/35462/grapheneos-appverse/](https://alternativeto.net/list/35462/grapheneos-appverse/)
+- [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
+- [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
+- [https://craignuzzo.tech/grapheneos/](https://craignuzzo.tech/grapheneos/)
