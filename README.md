@@ -276,4 +276,4 @@
 - [https://alternativeto.net/list/35462/grapheneos-appverse/](https://alternativeto.net/list/35462/grapheneos-appverse/)
 - [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
 - [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
-- [https://craignuzzo.tech/grapheneos/](https://craignuzzo.tech/grapheneos/)
+- [https://craignuzzo.tech/articles/graphene](https://craignuzzo.tech/articles/graphene)
