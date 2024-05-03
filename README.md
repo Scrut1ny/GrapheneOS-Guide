@@ -1,6 +1,6 @@
 ![image-1313240240](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/fd537eec-0144-47aa-9e72-4bd65eb3964c)
 
-#### I collaborated with Naomi Brockwell [NBTV](https://www.youtube.com/@NaomiBrockwellTV) to craft a YouTube video accompanying this guide. The process involved significant dedication and effort, resulting in the creation of [this video](https://youtu.be/wg00QkcpOOM). Whether you stumbled upon it from the YouTube video, discovered it by chance, or were referred by a friend, your feedback is highly valued. Please don't hesitate to propose any additions or improvements to this guide. Whether it's links, configurations, apps, or any other suggestions, I welcome your input. Your recommendations will be thoroughly reviewed, and I'll consider their integration into this guide.
+### I collaborated with Naomi Brockwell [NBTV](https://www.youtube.com/@NaomiBrockwellTV) to craft a YouTube video accompanying this guide. The process involved significant dedication and effort, resulting in the creation of [this video](https://youtu.be/wg00QkcpOOM). Whether you stumbled upon it from the YouTube video, discovered it by chance, or were referred by a friend, your feedback is highly valued. Please don't hesitate to propose any additions or improvements to this guide. Whether it's links, configurations, apps, or any other suggestions, I welcome your input. Your recommendations will be thoroughly reviewed, and I'll consider their integration into this guide.
 
 
 
