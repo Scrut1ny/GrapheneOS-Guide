@@ -256,6 +256,8 @@
 ![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
 
 - If you would like your system to look like mine, please check out these apps:
+  - [unlauncher](https://github.com/jkuester/unlauncher/releases/latest)
+    - [F-Droid Link](https://f-droid.org/packages/com.jkuester.unlauncher/)
   - [KISS](https://github.com/Neamar/KISS/releases/latest) - Lightning fast, open-source, < 250kb Android launcher
   - My KISS Config
   ```
