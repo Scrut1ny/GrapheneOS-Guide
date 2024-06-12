@@ -11,7 +11,7 @@
 <summary>Click to expand...</summary>
 
 - 📱 Mobile Phone
-  - Purchase a new `Google Pixel` with `cash` from a local store and avoid Verizon, as they lock the OEM.
+  - Purchase a new `Google Pixel` with `cash` from a local store (including the [Google Store](https://store.google.com/magazine/locations)) and avoid Verizon, as they lock the OEM.
     - *Ensure the transaction remains anonymous to avoid linking the phone's IMEI to your identity.*
 
 - 📶 Mobile Carrier
