@@ -27,9 +27,9 @@
 
 - 📲 Mobile Accessories (optional)
   - Protective Case/Cover
-      - [Google Pixel](https://www.amazon.com/stores/page/1AEDD91F-AFDC-49AA-A7F4-2BF2A6AEBD57)
+      - [Google Pixel](https://www.amazon.com/stores/page/1AEDD91F-AFDC-49AA-A7F4-2BF2A6AEBD57/search?terms=Google%20Pixel)
   - Privacy Screen Protector
-      - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2/search?terms=Google%20Pixel)
+      - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2)
 
 </details>
 
@@ -160,6 +160,7 @@
   - [Auxio](https://github.com/OxygenCobalt/Auxio/releases/latest) - A simple, rational music player for Android
   - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
 - Photo/Video Gallery
+  - [Aves](https://github.com/deckerst/aves/releases/latest) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
   - [Fossify Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
 - Notes
   - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
@@ -169,7 +170,6 @@
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
-    - [Github Link](https://github.com/tutao/tutanota/releases)
 - Navigation
   - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
 - Weather
@@ -218,7 +218,6 @@
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
-  - [Github Link](https://github.com/tutao/tutanota/releases)
 - VPNs
   - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
   - [IVPN](https://f-droid.org/packages/net.ivpn.client/) - Privacy focused VPN service with WireGuard
@@ -232,6 +231,7 @@
   - [Seal](https://f-droid.org/en/packages/com.junkfood.seal/) - 🦭 Video/audio downloader for Android (YT-DLP), designed with Material You 
   - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
   - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
+    - [Key Driver](https://gitlab.com/kunzisoft/android-hardware-key-driver/-/releases) - Unlock KeePassXC databases with [YubiKeys](https://keepassxc.org/docs/#faq-yubikey-2fa)
   - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
   - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
   - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
