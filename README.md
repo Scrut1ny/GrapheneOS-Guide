@@ -27,7 +27,7 @@
 
 - 📲 Mobile Accessories (optional)
   - Protective Case/Cover
-      - [Google Pixel](https://www.amazon.com/stores/page/1AEDD91F-AFDC-49AA-A7F4-2BF2A6AEBD57)
+      - [Google Pixel](https://www.amazon.com/stores/page/1AEDD91F-AFDC-49AA-A7F4-2BF2A6AEBD57/search?terms=Google%20Pixel)
   - Privacy Screen Protector
       - [Google Pixel](https://www.amazon.com/stores/page/EE20BD00-A914-460E-B3CC-12A13BB945E2)
 
@@ -160,7 +160,7 @@
   - [Auxio](https://github.com/OxygenCobalt/Auxio/releases/latest) - A simple, rational music player for Android
   - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
 - Photo/Video Gallery
-  - [Aves](https://github.com/deckerst/aves/releases/tag/v1.11.3) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
+  - [Aves](https://github.com/deckerst/aves/releases/latest) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
   - [Fossify Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
 - Notes
   - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
