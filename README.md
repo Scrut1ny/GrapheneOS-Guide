@@ -214,9 +214,9 @@
 - Messenger (Private, Secure, etc)
   - [Brair](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
   - [Jami](https://f-droid.org/packages/cx.ring/) - Audio & Video Calls / Chat Take Control of your Communication!
-  - [Session F-Droid](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
+  - [Session](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
 - Email Service
-  - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
+  - [Proton Mail](https://github.com/ProtonMail/android-mail/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
 - VPNs
   - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
