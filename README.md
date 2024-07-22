@@ -212,9 +212,9 @@
   - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
   - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
 - Messenger (Private, Secure, etc)
-  - [Brair](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
+  - [Briar](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
   - [Jami](https://f-droid.org/packages/cx.ring/) - Audio & Video Calls / Chat Take Control of your Communication!
-  - [Session](https://f-droid.org/en/packages/network.loki.messenger.fdroid/) - Encrypted private messenger
+  - [SimpleX](https://f-droid.org/en/packages/chat.simplex.app/) - The first messaging network operating without user identifiers of any kind - 100% private by design!
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/android-mail/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
