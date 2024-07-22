@@ -165,7 +165,8 @@
 - Notes
   - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
 - Secure Messaging
-  - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
+  - [Signal](https://signal.org/android/apk/) - A private messenger for Android.
+  - [SimpleX](https://github.com/simplex-chat/simplex-chat) - The first messaging network operating without user identifiers of any kind - 100% private by design!
   - [Session](https://github.com/oxen-io/session-android/releases/latest) - A private messenger for Android.
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
