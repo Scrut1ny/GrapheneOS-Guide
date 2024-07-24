@@ -152,11 +152,13 @@
             - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
 - YouTube Alt
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
-  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - A libre lightweight streaming front-end for Android. 
+  - [Clipious](https://github.com/lamarios/clipious/releases/latest) - Invidious client for android 
+  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - A libre lightweight streaming front-end for Android.
 - Movie/Show Streaming Alt
   - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
     - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
 - Music
+  - [RiMusic](https://github.com/fast4x/RiMusic/releases/latest) - A multilingual Android application for streaming music from YouTube Music. 
   - [Auxio](https://github.com/OxygenCobalt/Auxio/releases/latest) - A simple, rational music player for Android
   - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
 - Photo/Video Gallery
@@ -165,7 +167,8 @@
 - Notes
   - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
 - Secure Messaging
-  - [Signal](https://signal.org/android/apk/) - A private messenger for Android. 
+  - [Signal](https://signal.org/android/apk/) - A private messenger for Android.
+    - [Molly](https://github.com/mollyim/mollyim-android/releases/latest) - Enhanced and security-focused fork of Signal. 
   - [SimpleX](https://github.com/simplex-chat/simplex-chat/releases/latest) - The first messaging network operating without user identifiers of any kind - 100% private by design!
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
@@ -195,6 +198,7 @@
 - Onlne Video, Music, Streaming, Podcasts, etc
   - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
+  - [Clipious](https://f-droid.org/packages/com.github.lamarios.clipious/) - Invidious client for android
   - [ViMusic](https://f-droid.org/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music
   - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
   - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
