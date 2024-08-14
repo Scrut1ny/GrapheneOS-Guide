@@ -96,7 +96,7 @@
 * Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅ (*Only enable if you're not using a custom DNS VPN.*)
 * Settings > Network & internet > Internet connectivity checks > `Disabled` ❌
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Make sure to enable again for captive portals used via public Wi-Fi!
 
 #### Apps
