@@ -81,8 +81,7 @@
 
 </details>
 
-> [!IMPORTANT]
-> Make sure to enable again for captive portals used via public Wi-Fi!
+
 
 
 ## ⚙️ Settings
@@ -92,13 +91,13 @@
 
 #### Network & internet
 * Settings > Network & internet > Internet > Carrier Settings ⚙️ > Preferred network type > `LTE only` ✅ (*if you don't have 5G*)
-* Settings > Network & internet > Internet > Carrier Settings ⚙️ > `Allow 2G` ❌ (*if option exists*)
+* Settings > Network & internet > Internet > Carrier Settings ⚙️ > `Allow 2G` ❌
+    * *Setting may not exist on your phone*
 * Settings > Network & internet > Internet > *Select your Wi-Fi* ⚙️ > *select pen icon* > Advanced options > Privacy > `Use per-connection randomized MAC (default)` ✅
-* Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅ (*Only enable if you're not using a custom DNS VPN.*)
+* Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅
+    * *Only enable if you're not using a custom DNS VPN.*
 * Settings > Network & internet > Internet connectivity checks > `Disabled` ❌
-
-> [!IMPORTANT]
-> Make sure to enable again for captive portals used via public Wi-Fi!
+    * *Make sure to enable again for captive portals used via public Wi-Fi!*
 
 #### Apps
 - Settings > Apps > Default apps (*Set your favorite default apps here*) ✅
