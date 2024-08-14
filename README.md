@@ -95,8 +95,9 @@
 * Settings > Network & internet > Internet > *Select your Wi-Fi* ⚙️ > *select pen icon* > Advanced options > Privacy > `Use per-connection randomized MAC (default)` ✅
 * Settings > Network & internet > Private DNS > Private DNS provider hostname: `dns.quad9.net` ✅ (*Only enable if you're not using a custom DNS VPN.*)
 * Settings > Network & internet > Internet connectivity checks > `Disabled` ❌
+
 > [!IMPORTANT]  
-> *Make sure to enable again for captive portals used via public Wi-Fi!*
+> Make sure to enable again for captive portals used via public Wi-Fi!
 
 #### Apps
 - Settings > Apps > Default apps (*Set your favorite default apps here*) ✅
