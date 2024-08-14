@@ -81,7 +81,8 @@
 
 </details>
 
-
+> [!IMPORTANT]
+> Make sure to enable again for captive portals used via public Wi-Fi!
 
 
 ## ⚙️ Settings
