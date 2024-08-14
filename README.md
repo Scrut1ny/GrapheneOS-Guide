@@ -22,7 +22,7 @@
 
 - 📳 Configuring Mobile Carrier
   - Use a free public Wi-Fi network far from your home to configure your recently acquired mobile carrier.
-- 🌐 Utilizing Port 53 with a VPN on Public WiFi
+- 🌐 Utilizing Port 53 (*DNS*) with a VPN on Public Wi-Fi
   - Connect to a VPN service, configuring it to use port 53. This disguises VPN traffic as DNS queries, bypassing login requirements on public WiFi with captive portal networks, ensuring unrestricted internet access while preserving privacy and security.
 
 - 📲 Mobile Accessories (optional)
