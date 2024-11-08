@@ -224,6 +224,7 @@
   - [SimpleX](https://f-droid.org/en/packages/chat.simplex.app/) - The first messaging network operating without user identifiers of any kind - 100% private by design!
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/android-mail/releases/latest)
+      - [You Have Mail]([https://github.com/LeanderBB/you-have-mail](https://f-droid.org/packages/dev.lbeernaert.youhavemail/)) - Email Notification for Proton Mail without Google Play Services
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
 - VPNs
   - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
