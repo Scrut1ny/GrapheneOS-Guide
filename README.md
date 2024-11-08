@@ -219,6 +219,9 @@
   - [Infinity for Reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - A beautiful, feature-rich Reddit client.
   - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android/) - Decentralized social network
   - [Shitter](https://f-droid.org/en/packages/org.nuclearfog.twidda/) - A lightweight Mastodon client focused on privacy and low data consumption
+  - [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) - A multi account client for the social network Mastodon
+  - [Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon/) - A multifunctional Android client to access the distributed Fediverse
+  - [PixelDroid](https://f-droid.org/en/packages/org.pixeldroid.app/) - Client for Pixelfed, the federated image sharing platform
 - Note-taking
   - [Notesnook](https://f-droid.org/en/packages/com.streetwriters.notesnook/) - A fully open source & end-to-end encrypted note taking app
   - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
