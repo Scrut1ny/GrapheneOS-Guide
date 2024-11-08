@@ -175,6 +175,10 @@
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
+- Calendar
+  - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
+  - [Proton Calendar](https://proton.me/calendar) - Organize your schedule privately with Proton Calendar
+  - [Tuta Calendar](https://f-droid.org/en/packages/de.tutao.calendar/) - Quantum-safe encrypted planner to schedule & manage your events & sync calendars
 - Navigation
   - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
 - Weather
@@ -194,6 +198,9 @@
 - Navigation
   - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
   - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+- Calendar
+  - [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar/) - A simple calendar with events, customizable widgets and no ads.
+  - [Tuta Calendar](https://f-droid.org/en/packages/de.tutao.calendar/) - Quantum-safe encrypted planner to schedule & manage your events & sync calendars
 - Weather
   - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
