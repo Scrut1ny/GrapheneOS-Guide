@@ -214,6 +214,7 @@
   - [Shitter](https://f-droid.org/en/packages/org.nuclearfog.twidda/) - A lightweight Mastodon client focused on privacy and low data consumption
 - Offline Media
   - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
+  - [Just (Video) Player](https://f-droid.org/packages/com.brouken.player/) - Simple video player based on ExoPlayer library
   - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
   - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
   - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
