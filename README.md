@@ -250,6 +250,7 @@
   - Direct Download: [https://www.magicearth.com/apk/](https://www.magicearth.com/apk/) - Password: `7h6Q7\9AsF:a7"Ja`
 - Tor Browser
   - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
+  - [Guardian Project app repository](https://guardianproject.info/fdroid/) for F-Droid
 
 </details>
 
