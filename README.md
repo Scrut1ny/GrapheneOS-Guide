@@ -288,3 +288,4 @@
 - [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
 - [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
 - [https://craignuzzo.tech/articles/graphene](https://craignuzzo.tech/articles/graphene)
+- [https://github.com/iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide)
