@@ -175,6 +175,10 @@
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
+- Calendar
+  - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
+  - [Proton Calendar](https://proton.me/calendar) - Organize your schedule privately with Proton Calendar
+  - [Tuta Calendar](https://f-droid.org/en/packages/de.tutao.calendar/) - Quantum-safe encrypted planner to schedule & manage your events & sync calendars
 - Navigation
   - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
 - Weather
@@ -194,6 +198,9 @@
 - Navigation
   - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
   - [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+- Calendar
+  - [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar/) - A simple calendar with events, customizable widgets and no ads.
+  - [Tuta Calendar](https://f-droid.org/en/packages/de.tutao.calendar/) - Quantum-safe encrypted planner to schedule & manage your events & sync calendars
 - Weather
   - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
@@ -215,10 +222,13 @@
   - [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) - A multi account client for the social network Mastodon
   - [Fedilab](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon/) - A multifunctional Android client to access the distributed Fediverse
   - [PixelDroid](https://f-droid.org/en/packages/org.pixeldroid.app/) - Client for Pixelfed, the federated image sharing platform
+- Note-taking
+  - [Notesnook](https://f-droid.org/en/packages/com.streetwriters.notesnook/) - A fully open source & end-to-end encrypted note taking app
+  - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
 - Offline Media
   - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
+  - [Just (Video) Player](https://f-droid.org/packages/com.brouken.player/) - Simple video player based on ExoPlayer library
   - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
-  - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
   - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
 - Messenger (Private, Secure, etc)
   - [Briar](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
@@ -226,6 +236,7 @@
   - [SimpleX](https://f-droid.org/en/packages/chat.simplex.app/) - The first messaging network operating without user identifiers of any kind - 100% private by design!
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/android-mail/releases/latest)
+      - [You Have Mail]([https://github.com/LeanderBB/you-have-mail](https://f-droid.org/packages/dev.lbeernaert.youhavemail/)) - Email Notification for Proton Mail without Google Play Services
   - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
 - VPNs
   - [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
@@ -241,6 +252,8 @@
   - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
   - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
     - [Key Driver](https://gitlab.com/kunzisoft/android-hardware-key-driver/-/releases) - Unlock KeePassXC databases with [YubiKeys](https://keepassxc.org/docs/#faq-yubikey-2fa)
+  - [Ente](https://f-droid.org/packages/io.ente.photos.fdroid/) - Private cloud storage for your photos, video and more
+  - [Ente Auth](https://f-droid.org/packages/io.ente.auth/) - Open source 2FA authenticator, with E2EE backups
   - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
   - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
   - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
@@ -253,6 +266,7 @@
   - Direct Download: [https://www.magicearth.com/apk/](https://www.magicearth.com/apk/) - Password: `7h6Q7\9AsF:a7"Ja`
 - Tor Browser
   - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
+  - [Guardian Project app repository](https://guardianproject.info/fdroid/) for F-Droid
 
 </details>
 
@@ -291,3 +305,4 @@
 - [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
 - [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
 - [https://craignuzzo.tech/articles/graphene](https://craignuzzo.tech/articles/graphene)
+- [https://github.com/iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide)
