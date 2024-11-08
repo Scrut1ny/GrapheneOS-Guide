@@ -252,6 +252,7 @@
   - [PrivacyBlur](https://f-droid.org/packages/de.mathema.privacyblur/) - Blur or pixelate faces or sensitive areas in pictures
   - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files.
     - [Key Driver](https://gitlab.com/kunzisoft/android-hardware-key-driver/-/releases) - Unlock KeePassXC databases with [YubiKeys](https://keepassxc.org/docs/#faq-yubikey-2fa)
+  - [Bitwarden](https://bitwarden.com/download/#downloads-mobile) - End-to-end encrypted cloud password manager
   - [Ente](https://f-droid.org/packages/io.ente.photos.fdroid/) - Private cloud storage for your photos, video and more
   - [Ente Auth](https://f-droid.org/packages/io.ente.auth/) - Open source 2FA authenticator, with E2EE backups
   - [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid/) - All in one emulator on Android
