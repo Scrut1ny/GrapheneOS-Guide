@@ -212,11 +212,13 @@
   - [Infinity for Reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - A beautiful, feature-rich Reddit client.
   - [Mastodon](https://f-droid.org/packages/org.joinmastodon.android/) - Decentralized social network
   - [Shitter](https://f-droid.org/en/packages/org.nuclearfog.twidda/) - A lightweight Mastodon client focused on privacy and low data consumption
+- Note-taking
+  - [Notesnook](https://f-droid.org/en/packages/com.streetwriters.notesnook/) - A fully open source & end-to-end encrypted note taking app
+  - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
 - Offline Media
   - [VLC Media Player](https://f-droid.org/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
   - [Just (Video) Player](https://f-droid.org/packages/com.brouken.player/) - Simple video player based on ExoPlayer library
   - [Video Transcoder](https://f-droid.org/packages/protect.videoeditor/) - Video transcoding between common formats
-  - [Standard Notes](https://f-droid.org/packages/com.standardnotes/) - An end-to-end encrypted note-taking app for digitalists and professionals
   - [SimpleTextEditor](https://f-droid.org/packages/com.maxistar.textpad/) - Simple Text Editor
 - Messenger (Private, Secure, etc)
   - [Briar](https://f-droid.org/packages/org.briarproject.briar.android/) - Secure Messaging, Anywhere
