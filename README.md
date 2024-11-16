@@ -204,7 +204,7 @@
 - Weather
   - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
-- Onlne Video, Music, Streaming, Podcasts, etc
+- Online Video, Music, Streaming, Podcasts, etc
   - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - [Clipious](https://f-droid.org/packages/com.github.lamarios.clipious/) - Invidious client for android
