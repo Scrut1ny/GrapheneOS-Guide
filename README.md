@@ -145,7 +145,7 @@
 
 ### FOSS Essential Apps
 - Web Browser
-  - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
+  - [IronFox](https://gitlab.com/ironfox-oss/IronFox/-/releases) - Privacy and security-oriented Firefox-based web browser for Android.
     - Add-ons
       - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
       - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
@@ -193,7 +193,6 @@
 
 ### F-Droid Apps
 - Web Browser
-  - [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Privacy oriented web browser (FF Based)
   - [Cromite](https://github.com/uazo/cromite/releases/latest) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! 
 - Navigation
   - [Organic Maps](https://f-droid.org/packages/app.organicmaps/) - Open-source, community-driven maps for travelers, tourists, cyclists & hikers
