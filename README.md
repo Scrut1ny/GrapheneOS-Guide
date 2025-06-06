@@ -18,7 +18,13 @@
   - Buy a pre-paid [Mint Mobile](https://www.mintmobile.com/) (T-Mobile) SIM card with `cash` from a local store.
     - Wire it up to a [privacy.com](https://privacy.com/) card.
       - For $15/month*, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, address, SSN, etc.)
-  - [Calyx hotspot](https://calyxinstitute.org/membership/internet) for unlimited, unthrottled, anonymous connectivity. 
+  - [Calyx hotspot](https://calyxinstitute.org/membership/internet) for unlimited, unthrottled, anonymous connectivity.
+  - [Cape](https://www.cape.co/get-cape) - America’s privacy-first mobile carrier. A premium, nationwide cell service for $99/month, with no hidden costs.
+    - Minimal Data Collection: We don’t collect your name, social security number, address, or other personal information. Any data we do receive (like call logs) is deleted after 60 days.
+    - SIM Swap Protection: We secure your account against SIM swaps—attacks to steal your phone number and access your accounts—with modern cryptography protocols.
+    - Enhanced Signaling Protection: Our proprietary signaling protection blocks attempts by bad actors to intercept calls and SMS via outdated signaling protocols like SS7.
+    - Encrypted Voicemail: Voicemails can hold sensitive information like 2FA codes. Cape encrypts your voicemails so only you have access to them.
+    - Private Payment: We don’t collect your name or billing address at checkout, and Cape never sees your credit card details.
 
 - 📳 Configuring Mobile Carrier
   - Use a free public Wi-Fi network far from your home to configure your recently acquired mobile carrier.
