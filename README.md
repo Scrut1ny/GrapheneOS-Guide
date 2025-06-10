@@ -208,7 +208,7 @@
   - [Tuta Calendar](https://f-droid.org/en/packages/de.tutao.calendar/) - Quantum-safe encrypted planner to schedule & manage your events & sync calendars
 - Weather
   - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
-  - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) - A Material Design Weather Application
+  - [Breezy Weather](https://f-droid.org/packages/org.breezyweather/) - A Material Design Weather Application
 - Online Video, Music, Streaming, Podcasts, etc
   - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight YouTube frontend
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
@@ -264,7 +264,8 @@
   - [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) - Pixel Launcher features plus customizability
   - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
   - [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - Catima, a Loyalty Card & Ticket Manager for Android
-  - [Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
+  - [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/) - Android RSS reader app
+  - [OCR](https://f-droid.org/packages/io.github.subhamtyagi.ocr/) - Tesseract based OCR for android 
 
 ### Aurora Store Apps
 - Magic Earth
