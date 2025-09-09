@@ -158,6 +158,7 @@
         - User Scripts (JS)
           - [Greasy Fork](https://greasyfork.org/)
             - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
+  - [Brave](https://github.com/brave/brave-browser/releases/latest)
 - YouTube Alt
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - [Clipious](https://github.com/lamarios/clipious/releases/latest) - Invidious client for android 
