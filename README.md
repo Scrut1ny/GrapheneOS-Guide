@@ -161,6 +161,7 @@
   - [Brave](https://github.com/brave/brave-browser/releases/latest)
 - YouTube Alt
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
+  - [Grayjay](https://grayjay.app/desktop/index.html) - Watch content on your own terms, ensuring you retain full ownership and control over what you watch. Your content, your way.
   - [Clipious](https://github.com/lamarios/clipious/releases/latest) - Invidious client for android 
   - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - A libre lightweight streaming front-end for Android.
 - Movie/Show Streaming Alt
