@@ -193,9 +193,9 @@
 
 ### Recommended Apps
 - YouTube Alt
-  - [Clipious](https://github.com/lamarios/clipious) - Invidious client for android
-  - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-  - [Grayjay](https://grayjay.app/desktop/index.html) - Watch content on your own terms, ensuring you retain full ownership and control over what you watch. Your content, your way.
+  - [Clipious](https://github.com/lamarios/clipious)
+  - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  - [Grayjay](https://grayjay.app/desktop/index.html)
 - Music
   - [RiMusic](https://github.com/fast4x/RiMusic)
   - [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -271,15 +271,7 @@
   - [Public IP](https://f-droid.org/en/packages/net.guildem.publicip/) - App and Widget allowing user to find its current public IP address
   - [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - Catima, a Loyalty Card & Ticket Manager for Android
   - [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/) - Android RSS reader app
-  - [OCR](https://f-droid.org/packages/io.github.subhamtyagi.ocr/) - Tesseract based OCR for android 
-
-### Aurora Store Apps
-- Magic Earth
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)
-  - Direct Download: [https://www.magicearth.com/apk/](https://www.magicearth.com/apk/) - Password: `7h6Q7\9AsF:a7"Ja`
-- Tor Browser
-  - [Google Play Store](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
-  - [Guardian Project app repository](https://guardianproject.info/fdroid/) for F-Droid
+  - [OCR](https://f-droid.org/packages/io.github.subhamtyagi.ocr/) - Tesseract based OCR for android
 
 </details>
 
