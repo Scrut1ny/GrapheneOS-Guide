@@ -149,55 +149,59 @@
 <details>
 <summary>Click to expand...</summary>
 
+### App Stores
+- [F-Droid](https://f-droid.org/)
+- [Accrescent](https://accrescent.app/)
+- [Aurora Store](https://auroraoss.com/)
+
 ### FOSS Essential Apps
 - Web Browser
-  - [IronFox](https://gitlab.com/ironfox-oss/IronFox/-/releases) - Privacy and security-oriented Firefox-based web browser for Android.
+  - [IronFox](https://gitlab.com/ironfox-oss/IronFox)
     - Add-ons
       - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
       - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
         - User Scripts (JS)
           - [Greasy Fork](https://greasyfork.org/)
             - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass)
-  - [Brave](https://github.com/brave/brave-browser/releases/latest)
+  - [Brave](https://github.com/brave/brave-browser)
 - YouTube Alt
-  - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
-  - [Clipious](https://github.com/lamarios/clipious/releases/latest) - Invidious client for android 
-  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) - A libre lightweight streaming front-end for Android.
-  - [Grayjay](https://grayjay.app/desktop/index.html) - Watch content on your own terms, ensuring you retain full ownership and control over what you watch. Your content, your way.
+  - [LibreTube](https://github.com/libre-tube/LibreTube)
 - Movie/Show Streaming Alt
-  - [CloudStream](https://github.com/recloudstream/cloudstream/releases/latest) - Android app for streaming and downloading media.
+  - [CloudStream](https://github.com/recloudstream/cloudstream)
     - [repos](https://rentry.org/cs3-repos#cloudstream-3-repositories)
-- Music
-  - [RiMusic](https://github.com/fast4x/RiMusic/releases/latest) - A multilingual Android application for streaming music from YouTube Music. 
-  - [Auxio](https://github.com/OxygenCobalt/Auxio/releases/latest) - A simple, rational music player for Android
-  - [InnerTune](https://github.com/z-huang/InnerTune/releases/latest) - A Material 3 YouTube Music client for Android
 - Photo/Video Gallery
-  - [Aves](https://github.com/deckerst/aves/releases/latest) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-  - [Fossify Gallery](https://github.com/FossifyOrg/Gallery/releases/latest) - A premium app for managing and editing your photos, videos, GIFs without ads
+  - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 - Notes
-  - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest) - A simple textfield for adding quick notes without ads.
+  - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest)
 - Secure Messaging
-  - [Signal](https://signal.org/android/apk/) - A private messenger for Android.
-    - [Molly](https://github.com/mollyim/mollyim-android/releases/latest) - Enhanced and security-focused fork of Signal. 
-  - [SimpleX](https://github.com/simplex-chat/simplex-chat/releases/latest) - The first messaging network operating without user identifiers of any kind - 100% private by design!
+  - [Signal](https://signal.org/android/apk/)
+    - [Molly](https://github.com/mollyim/mollyim-android) 
+  - [SimpleX](https://github.com/simplex-chat/simplex-chat)
 - Email Service
-  - [Proton Mail](https://github.com/ProtonMail/proton-mail-android/releases/latest)
-  - [Tuta](https://f-droid.org/en/packages/de.tutao.tutanota/)
+  - [Proton Mail](https://github.com/ProtonMail/android-mail)
+  - [Tuta](https://github.com/tutao/tutanota)
 - Calendar
-  - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
-  - [Proton Calendar](https://proton.me/calendar) - Organize your schedule privately with Proton Calendar
-  - [Tuta Calendar](https://f-droid.org/en/packages/de.tutao.calendar/) - Quantum-safe encrypted planner to schedule & manage your events & sync calendars
+  - [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
+  - [Proton Calendar](https://proton.me/calendar)
+  - [Tuta Calendar](https://github.com/tutao/tutanota)
 - Navigation
-  - [OsmAnd](https://github.com/osmandapp/OsmAnd/releases/latest) - Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+  - [Organic Maps](https://github.com/organicmaps/organicmaps)
 - Weather
-  - [Rain](https://github.com/DarkMooNight/Rain/releases/latest) - Weather app.
+  - [Rain](https://github.com/DarkMooNight/Rain)
 - Updates
-  - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Get Android App Updates Directly From the Source. 
+  - [Obtainium](https://github.com/ImranR98/Obtainium)
 
-### App Stores
-- [F-Droid](https://f-droid.org/) - The app store that respects freedom and privacy
-- [Accrescent](https://github.com/accrescent/accrescent/releases/latest) - A novel Android app store focused on security, privacy, and usability
-- [Aurora Store](https://f-droid.org/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design
+### Recommended Apps
+- YouTube Alt
+  - [Clipious](https://github.com/lamarios/clipious) - Invidious client for android
+  - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+  - [Grayjay](https://grayjay.app/desktop/index.html) - Watch content on your own terms, ensuring you retain full ownership and control over what you watch. Your content, your way.
+- Music
+  - [RiMusic](https://github.com/fast4x/RiMusic)
+  - [Auxio](https://github.com/OxygenCobalt/Auxio)
+  - [InnerTune](https://github.com/z-huang/InnerTune)
+- Photo/Video Gallery
+  - [Aves](https://github.com/deckerst/aves)
 
 ### F-Droid Apps
 - Web Browser
