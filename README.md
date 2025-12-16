@@ -172,7 +172,7 @@
 - Photo/Video Gallery
   - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 - Notes
-  - [Fossify Notes](https://github.com/FossifyOrg/Notes/releases/latest)
+  - [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - Secure Messaging
   - [Signal](https://signal.org/android/apk/)
     - [Molly](https://github.com/mollyim/mollyim-android) 
