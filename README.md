@@ -174,9 +174,9 @@
 - Notes
   - [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - Secure Messaging
+  - [Molly](https://github.com/mollyim/mollyim-android) 
   - [Signal](https://signal.org/android/apk/)
-    - [Molly](https://github.com/mollyim/mollyim-android) 
-  - [SimpleX](https://github.com/simplex-chat/simplex-chat)
+    - [*Add to Obtainium*](https://updates.signal.org/android/latest.json)
 - Email Service
   - [Proton Mail](https://github.com/ProtonMail/android-mail)
   - [Tuta](https://github.com/tutao/tutanota)
@@ -202,6 +202,8 @@
   - [InnerTune](https://github.com/z-huang/InnerTune)
 - Photo/Video Gallery
   - [Aves](https://github.com/deckerst/aves)
+- Secure Messaging
+  - [SimpleX](https://github.com/simplex-chat/simplex-chat)
 
 ### F-Droid Apps
 - Web Browser
