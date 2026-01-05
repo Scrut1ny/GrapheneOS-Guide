@@ -18,7 +18,7 @@
   - Buy a pre-paid [Mint Mobile](https://www.mintmobile.com/) (T-Mobile) SIM card with `cash` from a local store.
     - Wire it up to a [privacy.com](https://privacy.com/) card.
       - For $15/month*, it provides unlimited* 4G/5G domestic data with relatively little attributable information on the account (e.g., no name, address, SSN, etc.)
-  - [KeepGo eSIM](https://www.keepgo.com/) Works in 100+ countries. $3/GB data in USA or Europe. Buy with crypto or prepaid card and use throwaway email. 
+  - [KeepGo eSIM](https://www.keepgo.com/) Works in 100+ countries. $3/GB data in USA or Europe. No Expiry. Buy with crypto or prepaid card and use throwaway email. 
   - [Calyx hotspot](https://calyxinstitute.org/membership/internet) for unlimited, unthrottled, anonymous connectivity.
   - [Cape](https://www.cape.co/get-cape) - America’s privacy-first mobile carrier. A premium, nationwide cell service for $99/month, with no hidden costs.
     - Minimal Data Collection: We don’t collect your name, social security number, address, or other personal information. Any data we do receive (like call logs) is deleted after 60 days.
