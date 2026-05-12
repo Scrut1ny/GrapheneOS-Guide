@@ -39,48 +39,19 @@
 
 
 
-## 🔓 Unlocking the OEM
-
-<details>
-<summary>Click to expand...</summary>
-
-1. Remove physical SIM card
-2. Factory reset (Settings > System > Reset options > `Erase all data (factory reset)` ✅
-3. Setup Wi-Fi Connection (Settings > Network & internet > Internet)
-4. Settings > System > Dev > `Allow OEM unlocking` ✅
-
-</details>
-
-
-
-
-## ⬇️ Install Google USB Driver
-
-<details>
-<summary>Click to expand...</summary>
-
-1. Download: [Link](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
-2. Unzip "usb_driver_r13-windows.zip"
-3. `WIN + R` enter: `devmgmt.msc`
-4. Portable Devices > Google Pixel
-5. Right click device > `Properties` > `Driver` > `Update Driver` > `Browse my computer for drivers` > `Browse` > Select *unzipped* "usb_driver_r13-windows" file once located.
-
-</details>
-
-
-
 
 ## ⬇️ Installation
 
 <details>
 <summary>Click to expand...</summary>
 
-### Official Site > [https://grapheneos.org](https://grapheneos.org)
-- [Web Install Guide](https://grapheneos.org/install/web)
-- [CLI Install Guide](https://grapheneos.org/install/cli)
+- Installing GrapheneOS
+  - [Web Guide](https://grapheneos.org/install/web)
+  - [CLI Guide](https://grapheneos.org/install/cli)
 
-### System is bricked, boot looping, corrupted, or showing critical errors
-- [Fix Guide](https://forum.xda-developers.com/t/guide-flashing-a-factory-image-with-fastboot-return-to-stock.1907796/)
+- Replacing GrapheneOS with the stock OS
+  - [Web Guide](https://grapheneos.org/install/web#replacing-grapheneos-with-the-stock-os)
+  - [CLI Guide](https://grapheneos.org/install/cli#replacing-grapheneos-with-the-stock-os)
 
 </details>
 
@@ -306,7 +277,6 @@
 
 ## Other Awesome Guides
 - [https://alternativeto.net/list/35462/grapheneos-appverse/](https://alternativeto.net/list/35462/grapheneos-appverse/)
-- [https://www.devilreef.net/securing-a-personal-android-phone/](https://www.devilreef.net/securing-a-personal-android-phone/)
 - [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
 - [https://craignuzzo.tech/articles/graphene](https://craignuzzo.tech/articles/graphene)
 - [https://github.com/iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide)
