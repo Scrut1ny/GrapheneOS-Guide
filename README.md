@@ -50,10 +50,6 @@
   - [Web Guide](https://grapheneos.org/install/web)
   - [CLI Guide](https://grapheneos.org/install/cli)
 
-- Replacing GrapheneOS with the stock OS
-  - [Web Guide](https://grapheneos.org/install/web#replacing-grapheneos-with-the-stock-os)
-  - [CLI Guide](https://grapheneos.org/install/cli#replacing-grapheneos-with-the-stock-os)
-
 </details>
 
 
@@ -247,37 +243,25 @@
 </details>
 
 
+---
 
 
-## Personal Layout Design
+## My config
 
 <details>
 <summary>Click to expand...</summary>
 
-## Personal Current Phone Layout
-![image](https://github.com/Scrut1ny/GrapheneOS-Guide/assets/53458032/48b8fe77-1c37-4e1c-afb9-6be1c2d23787)
-
-- If you would like your system to look like mine, please check out these apps:
-  - [unlauncher](https://github.com/jkuester/unlauncher/releases/latest) - Android minimalistic launcher
-    - [F-Droid Link](https://f-droid.org/packages/com.jkuester.unlauncher/)
-  - [KISS](https://github.com/Neamar/KISS/releases/latest) - Lightning fast, open-source, < 250kb Android launcher
-  - My KISS Config
+## Style
+  - [Arcticons Dark](https://arcticons.com/#dark)
+  - [KISS](https://github.com/Neamar/KISS/releases/latest) - "Lightning fast, open-source, < 250kb Android launcher"
   ```
-  {"__v":183,"freeze-history":true,"history-hide":true,"first-run-favorites":false,"selected-search-provider-names":["DuckDuckGo"],"require-layout-update":false,"gesture-up":"display-apps","favorite-apps-list":"app:\/\/us.spotco.fennec_dos\/us.spotco.fennec_dos.App;app:\/\/com.zionhuang.music\/com.zionhuang.music.MainActivity;app:\/\/org.thoughtcrime.securesms\/org.thoughtcrime.securesms.RoutingActivity;app:\/\/com.android.dialer\/com.android.dialer.main.impl.MainActivity;app:\/\/com.android.settings\/com.android.settings.Settings;","enable-app-history":false,"available-search-providers":["DuckDuckGo|https:\/\/start.duckduckgo.com\/?q=%s"],"enable-search":false,"large-search-bar":true,"transparent-search":true,"subicon-visible":false,"pref-toggle-tags-list":["call","clock","message","people","messaging"],"excluded-apps":["fr.neamar.kiss\/fr.neamar.kiss.MainActivity"],"default-search-provider":"DuckDuckGo","theme":"transparent-dark","pref-hide-circle":true,"first-run-shortcuts":false,"exclude-favorites-history":false,"deleting-search-providers-names":["Google","Google Maps","Google Play Store","YouTube","Ecosia","Bing"],"force-adaptive":false,"icons-pack":"com.donnnno.arcticons","pref-hide-search-bar-hint":true,"__tags":{"app:\/\/com.android.dialer\/com.android.dialer.main.impl.MainActivity":"dial call phone","app:\/\/com.android.contacts\/com.android.contacts.activities.PeopleActivity":"contacts people relations","app:\/\/org.chromium.chrome\/com.google.android.apps.chrome.Main":"internet web browser","app:\/\/com.android.deskclock\/com.android.deskclock.DeskClock":"clock alarm timer stopwatch","app:\/\/us.spotco.fennec_dos\/org.mozilla.fenix.IntentReceiverActivity":"internet web browser","app:\/\/com.android.deskclock\/com.android.deskclock.HandleApiCalls":"clock alarm timer stopwatch","app:\/\/com.android.messaging\/com.android.messaging.ui.conversationlist.ConversationListActivity":"text message compose sms mms messaging"}}
+  {"__v":223,"freeze-history":true,"notification-bar-color":"#FF4CAF50","history-hide":true,"first-run-favorites":false,"selected-search-provider-names":["DuckDuckGo"],"widgets-conf":"","enable-settings":false,"require-layout-update":false,"gesture-up":"display-apps","favorite-apps-list":"app:\/\/org.ironfoxoss.ironfox\/org.ironfoxoss.ironfox.App;app:\/\/im.molly.app\/org.thoughtcrime.securesms.RoutingActivity;app:\/\/com.android.settings\/com.android.settings.Settings;","enable-app-history":false,"available-search-providers":["DuckDuckGo|https:\/\/start.duckduckgo.com\/?q=%s"],"enable-search":false,"large-search-bar":true,"transparent-search":true,"use-fuzzy-score-v2":false,"subicon-visible":false,"pref-toggle-tags-list":["call","clock","message","people","messaging"],"excluded-apps":["fr.neamar.kiss\/fr.neamar.kiss.MainActivity"],"night-mode":"yes","enable-shortcuts":false,"pref-hide-circle":true,"first-run-shortcuts":false,"exclude-favorites-history":false,"enable-contacts":false,"deleting-search-providers-names":["Google","Google Maps","Google Play Store","YouTube","Ecosia","Bing"],"force-adaptive":false,"icons-pack":"com.donnnno.arcticons","pref-hide-search-bar-hint":true,"__tags":{"app:\/\/dev.imranr.obtainium\/dev.imranr.obtainium.MainActivity":"market store app center","app:\/\/app.grapheneos.apps\/app.grapheneos.apps.ui.MainActivity":"market store app center","app:\/\/com.android.contacts\/com.android.contacts.activities.PeopleActivity":"contacts people relations","app:\/\/org.chromium.chrome\/com.google.android.apps.chrome.Main":"internet web browser","app:\/\/com.aurora.store\/com.aurora.store.ComposeActivity":"market store app center","app:\/\/com.android.messaging\/com.android.messaging.ui.conversationlist.ConversationListActivity":"text message compose sms mms messaging","app:\/\/org.ironfoxoss.ironfox\/org.ironfoxoss.ironfox.App":"internet web browser","app:\/\/com.brave.browser\/com.google.android.apps.chrome.Main":"internet web browser","app:\/\/app.accrescent.client\/app.accrescent.client.ui.MainActivity":"market store app center","app:\/\/com.android.dialer\/com.android.dialer.main.impl.MainActivity":"dial call phone","app:\/\/com.android.deskclock\/com.android.deskclock.DeskClock":"clock alarm timer stopwatch","app:\/\/us.spotco.fennec_dos\/org.mozilla.fenix.IntentReceiverActivity":"internet web browser","app:\/\/com.android.deskclock\/com.android.deskclock.HandleApiCalls":"clock alarm timer stopwatch"},"__custom_components":[]}
   ```
 
-- Arcticons
-  - [Arcticons Dark](https://f-droid.org/packages/com.donnnno.arcticons/) - A monotone line-based icon pack
-  - [Arcticons Light](https://f-droid.org/packages/com.donnnno.arcticons.light/) - A monotone line-based icon pack
-  - [Arcticons You](https://f-droid.org/packages/com.donnnno.arcticons.you/) - A Material You line-based icon pack
+## Settings
+
+## Apps
+
+## Carrier
 
 </details>
-
-
-
-
-## Other Awesome Guides
-- [https://alternativeto.net/list/35462/grapheneos-appverse/](https://alternativeto.net/list/35462/grapheneos-appverse/)
-- [https://redandblack.io/blog/2020/how-to-set-up-grapheneos/](https://redandblack.io/blog/2020/how-to-set-up-grapheneos/)
-- [https://craignuzzo.tech/articles/graphene](https://craignuzzo.tech/articles/graphene)
-- [https://github.com/iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide)
